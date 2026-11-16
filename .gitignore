@@ -1,0 +1,13 @@
+node_modules/
+.cache/
+out/
+*.log
+.DS_Store
+__pycache__/
+.venv/
+modelos/
+# audio intermedio (se regenera con `npm run build`)
+public/audio/
+
+# vídeos renderizados (pesan ~25 MB cada uno): se regeneran con `npm run build`
+entregables/**/*.mp4

@@ -1,0 +1,89 @@
+{
+  "id": "10",
+  "slug": "gta-6-trucos-la-verdad",
+  "titulo": "Trucos de GTA 6: la verdad antes de que busques códigos",
+  "publicar": "Jueves 19 (el primer día todo el mundo busca «trucos gta 6»)",
+  "busquedas": ["gta 6 trucos", "trucos gta 6 ps5", "gta 6 claves", "gta 6 dinero infinito", "gta 6 códigos"],
+  "miniatura": {"etiqueta": "GTA 6 · TRUCOS", "lineas": ["¿HAY", "TRUCOS?"], "acento": "TRUCOS", "sello": "LA VERDAD", "icono": "ojo", "tono": "warn"},
+  "descripcion": "Antes de fiarte de una lista de trucos de GTA 6: Rockstar no ha confirmado ninguno todavía. Te cuento de dónde salen las listas que circulan, cómo han funcionado los trucos en toda la saga y qué estafas evitar.",
+  "etiquetas": ["gta 6", "gta vi", "gta 6 trucos", "trucos gta 6", "gta 6 claves", "gta 6 códigos", "gta 6 dinero infinito", "gta 6 trucos ps5", "gta 6 trucos xbox", "grand theft auto 6"],
+  "fuentes": [
+    {"texto": "Rockstar Games — Web oficial de GTA VI (no hay trucos anunciados)", "url": "https://www.rockstargames.com/VI"},
+    {"texto": "Cheat Code Central — ¿Tendrá trucos GTA 6? Lo que se sabe antes del lanzamiento", "url": "https://www.cheatcc.com/articles/gta-6-cheats/"},
+    {"texto": "Rockstar Games — Soporte oficial de GTA VI", "url": "https://support.rockstargames.com/VI"}
+  ],
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "capitulo": "Las listas de trucos",
+      "props": {"etiqueta": "TRUCOS Y CÓDIGOS", "lineas": ["TRUCOS", "DE GTA 6"], "acento": ["TRUCOS"]},
+      "narracion": [
+        "Dinero infinito, armas, un tanque…",
+        "Todas las listas de trucos de GTA 6 que has visto esta semana tienen el mismo problema."
+      ]
+    },
+    {
+      "tipo": "dato",
+      "capitulo": "Cuántos hay confirmados",
+      "props": {"antetitulo": "TRUCOS CONFIRMADOS POR ROCKSTAR", "valor": "0", "texto": "antes del lanzamiento", "nota": "Tampoco ha dicho que no vaya a haberlos", "golpe": 0},
+      "narracion": [
+        "A día de hoy, Rockstar no ha confirmado ni un solo truco de GTA 6.",
+        "Tampoco ha dicho que no vaya a haberlos."
+      ]
+    },
+    {
+      "tipo": "veredicto",
+      "capitulo": "De dónde salen las listas",
+      "props": {"pregunta": "Las listas que circulan", "icono": "alerta", "sello": "COPIAS DE GTA 5", "tono": "no", "detalle": "Los códigos nunca se heredan de un juego a otro", "golpe": 1},
+      "narracion": [
+        "¿Y esas listas que circulan?",
+        "Muchas son los códigos de GTA 5 con otro título.",
+        "Y los trucos nunca se han heredado de un juego a otro: cada entrega tiene los suyos."
+      ]
+    },
+    {
+      "tipo": "linea",
+      "capitulo": "Los trucos en la saga",
+      "props": {
+        "titulo": "Cómo han sido los trucos en la saga",
+        "puntos": [
+          {"fecha": "GTA III", "texto": "2001: combinaciones de botones"},
+          {"fecha": "GTA IV", "texto": "2008: números en el móvil del juego"},
+          {"fecha": "GTA 5", "texto": "2013: botones y, más tarde, el móvil"},
+          {"fecha": "Red Dead 2", "texto": "2018: frases ocultas en periódicos"}
+        ]
+      },
+      "narracion": [
+        "La buena noticia es la tradición. Desde GTA III, todas las entregas principales han tenido trucos en el modo historia.",
+        "En GTA IV se marcaban como números de teléfono.",
+        "En GTA 5, con combinaciones de botones y, más tarde, también con el móvil.",
+        "Y en Red Dead Redemption 2 eran frases que encontrabas en los periódicos."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "capitulo": "Tres cosas que no cambian",
+      "props": {
+        "titulo": "Tres cosas que no cambian",
+        "items": [
+          {"icono": "prohibido", "texto": "En el online no hay trucos", "detalle": "Rockstar nunca los ha permitido", "tono": "no"},
+          {"icono": "estrella", "texto": "Bloquean logros y trofeos", "detalle": "En GTA 5, durante esa sesión de juego", "tono": "warn"},
+          {"icono": "candado", "texto": "«Generador de dinero» = estafa", "detalle": "No des tu cuenta ni tus datos a nadie", "tono": "no"}
+        ]
+      },
+      "narracion": [
+        "Tres cosas que no cambian. En el online no hay trucos: Rockstar nunca los ha permitido.",
+        "En GTA 5, usarlos desactivaba los logros y trofeos durante esa sesión.",
+        "Y los generadores de dinero son una estafa. No des tu cuenta ni tus datos a nadie."
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "props": {"siguiente": "¿GTA 6 tiene online?"},
+      "narracion": [
+        "En cuanto haya trucos verificados, los tendrás en este canal.",
+        "Suscríbete para no perdértelos."
+      ]
+    }
+  ]
+}

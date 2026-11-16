@@ -1,0 +1,103 @@
+{
+  "id": "06",
+  "slug": "gta-6-jason-y-lucia-protagonistas",
+  "titulo": "Jason y Lucia: quiénes son los protagonistas de GTA 6 (sin spoilers)",
+  "publicar": "Viernes 20",
+  "busquedas": ["gta 6 protagonistas", "gta 6 jason y lucia", "gta 6 historia", "gta 6 lucia", "gta 6 de qué trata"],
+  "miniatura": {"etiqueta": "GTA 6 · HISTORIA", "lineas": ["JASON", "Y LUCIA"], "acento": "LUCIA", "sello": "SIN SPOILERS", "tono": "ok"},
+  "descripcion": "GTA 6 tiene dos protagonistas: Jason Duval y Lucia Caminos. Te cuento quiénes son, de dónde vienen, cómo arranca la historia y qué enseñó Rockstar en su gameplay oficial. Todo sin spoilers.",
+  "etiquetas": ["gta 6", "gta vi", "gta 6 protagonistas", "jason duval", "lucia caminos", "gta 6 historia", "gta 6 jason y lucia", "gta 6 gameplay", "gta 6 sin spoilers", "grand theft auto 6"],
+  "fuentes": [
+    {"texto": "Rockstar Games — «Only in Leonida»: Jason Duval y Lucia Caminos (web oficial de GTA VI)", "url": "https://www.rockstargames.com/VI/only-in-leonida"},
+    {"texto": "Rockstar Games — «An Extended Look», el gameplay oficial", "url": "https://www.rockstargames.com/VI/an-extended-look"},
+    {"texto": "GamesRadar — El sistema de búsqueda de GTA 6 llega a 6 estrellas", "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-system-goes-up-to-6-stars-and-lets-police-track-your-face-your-clothes-and-your-car/"},
+    {"texto": "VGC — Todo lo que se enseñó en el especial de GTA 6 en Netflix", "url": "https://www.videogameschronicle.com/news/everything-shown-at-the-grand-theft-auto-6-netflix-special/"}
+  ],
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "capitulo": "Dos protagonistas",
+      "props": {"etiqueta": "LOS PROTAGONISTAS", "lineas": ["JASON", "Y LUCIA"], "acento": ["LUCIA"]},
+      "narracion": [
+        "En GTA 6 hay dos protagonistas, y puedes cambiar de uno a otro.",
+        "Esto es lo que Rockstar ha contado de Jason y Lucia, sin spoilers."
+      ]
+    },
+    {
+      "tipo": "personaje",
+      "capitulo": "Jason Duval",
+      "fuente": "Web oficial de GTA VI",
+      "props": {
+        "nombre": "Jason Duval",
+        "rol": "Protagonista",
+        "rasgos": ["Exmilitar", "Vive en los Cayos"],
+        "color": "#27e6c8",
+        "numero": 1,
+        "total": 2,
+        "puntos": ["Creció entre delincuentes de poca monta", "Pasó por el Ejército para dejar atrás esa vida", "Trabaja para traficantes en los Cayos"]
+      },
+      "narracion": [
+        "Jason Duval creció rodeado de delincuentes de poca monta.",
+        "Pasó por el Ejército para intentar dejar atrás esa vida.",
+        "Y ahora trabaja para traficantes en los Cayos. Quiere una vida fácil, pero todo se le complica."
+      ]
+    },
+    {
+      "tipo": "personaje",
+      "capitulo": "Lucia Caminos",
+      "fuente": "Web oficial de GTA VI",
+      "props": {
+        "nombre": "Lucia Caminos",
+        "rol": "Protagonista",
+        "rasgos": ["Luchadora", "Recién salida de prisión"],
+        "color": "#ff3d81",
+        "numero": 2,
+        "total": 2,
+        "puntos": ["Su padre le enseñó a pelear desde niña", "Defender a su familia la llevó a prisión", "Quiere la vida con la que sueña su madre"]
+      },
+      "narracion": [
+        "Lucia Caminos aprendió a pelear de niña: le enseñó su padre.",
+        "Defender a su familia la llevó a la penitenciaría de Leonida.",
+        "Ahora está libre, y quiere la buena vida con la que su madre sueña desde que vivían en Liberty City."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "capitulo": "Cómo empieza la historia",
+      "fuente": "Web oficial de GTA VI",
+      "props": {"icono": "alerta", "titulo": "Un golpe fácil sale mal", "cuerpo": "Y acaban en medio de una conspiración que recorre todo el estado.", "tono": "warn"},
+      "narracion": [
+        "La historia arranca cuando un golpe fácil sale mal.",
+        "Los dos acaban metidos en una conspiración que recorre todo el estado, y solo pueden fiarse el uno del otro."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "capitulo": "Lo que enseñó el gameplay",
+      "fuente": "Vídeo oficial «An Extended Look»",
+      "props": {
+        "titulo": "Lo que enseñó el gameplay oficial",
+        "desde": 1,
+        "items": [
+          {"icono": "grupo", "texto": "Cambias entre Jason y Lucia", "detalle": "Juntos, o cada uno por su lado"},
+          {"icono": "estrella", "texto": "Búsqueda: hasta 6 estrellas", "detalle": "Vuelve la sexta estrella", "tono": "warn"},
+          {"icono": "ojo", "texto": "La policía te reconoce", "detalle": "Por la cara, la ropa y el coche", "tono": "no"}
+        ]
+      },
+      "narracion": [
+        "En agosto, Rockstar enseñó el juego en un vídeo largo, y dejó varias cosas claras.",
+        "Puedes alternar entre Jason y Lucia, juntos o cada uno por su lado.",
+        "El nivel de búsqueda vuelve a llegar a 6 estrellas.",
+        "Y la policía puede reconocerte por la cara, la ropa y el coche."
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "props": {"siguiente": "Los personajes secundarios: quién es quién"},
+      "narracion": [
+        "¿Con quién vas a jugar más, con Jason o con Lucia?",
+        "Suscríbete, que en el siguiente vídeo te presento al resto del reparto."
+      ]
+    }
+  ]
+}

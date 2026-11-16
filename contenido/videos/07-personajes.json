@@ -1,0 +1,146 @@
+{
+  "id": "07",
+  "slug": "gta-6-personajes-confirmados",
+  "titulo": "Los personajes de GTA 6 confirmados: quién es quién en Leonida",
+  "publicar": "Sábado 21",
+  "busquedas": ["gta 6 personajes", "gta 6 personajes confirmados", "gta 6 boobie ike", "gta 6 raul bautista", "gta 6 cal hampton", "gta 6 real dimez"],
+  "miniatura": {"etiqueta": "GTA 6 · PERSONAJES", "lineas": ["QUIÉN ES", "QUIÉN"], "acento": "QUIÉN", "sello": "6 FICHAS", "icono": "grupo", "tono": "info"},
+  "descripcion": "Un contrabandista veterano, un magnate del rap y un ladrón de bancos. Estos son los seis personajes secundarios de GTA 6 que Rockstar ha presentado de forma oficial, y qué se sabe de cada uno.",
+  "etiquetas": ["gta 6", "gta vi", "gta 6 personajes", "cal hampton", "boobie ike", "dre'quan priest", "real dimez", "raul bautista", "brian heder", "gta 6 reparto", "grand theft auto 6"],
+  "fuentes": [
+    {"texto": "Rockstar Games — «Only in Leonida»: personajes (web oficial de GTA VI)", "url": "https://www.rockstargames.com/VI/only-in-leonida"}
+  ],
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "capitulo": "El reparto",
+      "props": {"etiqueta": "EL REPARTO DE GTA 6", "lineas": ["QUIÉN", "ES QUIÉN"], "acento": ["QUIÉN"]},
+      "narracion": [
+        "Un contrabandista veterano, un magnate del rap y un ladrón de bancos.",
+        "Estos son los personajes de GTA 6 que Rockstar ya ha presentado."
+      ]
+    },
+    {
+      "tipo": "personaje",
+      "capitulo": "Cal Hampton",
+      "fuente": "Web oficial de GTA VI",
+      "props": {
+        "nombre": "Cal Hampton",
+        "rol": "Amigo de Jason",
+        "rasgos": ["Los Cayos", "Desconfiado"],
+        "color": "#27e6c8",
+        "numero": 1,
+        "total": 6,
+        "puntos": ["Amigo de Jason y socio de Brian", "Escucha las comunicaciones de la Guardia Costera", "Donde más seguro se siente es en casa"]
+      },
+      "narracion": [
+        "Cal Hampton es amigo de Jason y socio de Brian.",
+        "Se pasa el día escuchando las comunicaciones de la Guardia Costera.",
+        "Y donde más seguro se siente es en casa."
+      ]
+    },
+    {
+      "tipo": "personaje",
+      "capitulo": "Boobie Ike",
+      "fuente": "Web oficial de GTA VI",
+      "props": {
+        "nombre": "Boobie Ike",
+        "rol": "Leyenda de Vice City",
+        "rasgos": ["Empresario", "Only Raw Records"],
+        "color": "#ff7a45",
+        "numero": 2,
+        "total": 6,
+        "puntos": ["De la calle a un imperio legal", "Inmobiliaria, un club y un estudio de grabación", "Volcado en su sello discográfico"]
+      },
+      "narracion": [
+        "Luego está Boobie Ike, una leyenda local de Vice City.",
+        "Convirtió su pasado en la calle en un imperio legal: inmobiliaria, un club y un estudio de grabación.",
+        "Y está volcado en su sello, Only Raw Records, junto a Dre'Quan."
+      ]
+    },
+    {
+      "tipo": "personaje",
+      "capitulo": "Dre'Quan Priest",
+      "fuente": "Web oficial de GTA VI",
+      "props": {
+        "nombre": "Dre'Quan Priest",
+        "rol": "Productor musical",
+        "rasgos": ["Only Raw Records"],
+        "color": "#b98cff",
+        "numero": 3,
+        "total": 6,
+        "puntos": ["Más buscavidas que gánster", "Su meta siempre fue la música", "Ha fichado a Real Dimez"]
+      },
+      "narracion": [
+        "Dre'Quan Priest siempre fue más buscavidas que gánster.",
+        "Su meta, desde el principio, fue la música.",
+        "Y ya ha fichado a su primer gran grupo: Real Dimez."
+      ]
+    },
+    {
+      "tipo": "personaje",
+      "capitulo": "Real Dimez",
+      "fuente": "Web oficial de GTA VI",
+      "props": {
+        "nombre": "Real Dimez",
+        "rol": "Dúo de rap",
+        "rasgos": ["Bae-Luxe", "Roxy"],
+        "color": "#ff3d81",
+        "numero": 4,
+        "total": 6,
+        "puntos": ["Amigas desde el instituto", "De buscarse la vida a triunfar en redes", "Fichadas por Only Raw Records"]
+      },
+      "narracion": [
+        "El dúo Real Dimez lo forman Bae-Luxe y Roxy, amigas desde el instituto.",
+        "Pasaron de buscarse la vida en la calle a hacer rap y triunfar en redes.",
+        "Y ahora están fichadas por Only Raw Records."
+      ]
+    },
+    {
+      "tipo": "personaje",
+      "capitulo": "Raul Bautista",
+      "fuente": "Web oficial de GTA VI",
+      "props": {
+        "nombre": "Raul Bautista",
+        "rol": "Ladrón de bancos",
+        "rasgos": ["Veterano"],
+        "color": "#ffc857",
+        "numero": 5,
+        "total": 6,
+        "puntos": ["Un ladrón de bancos veterano", "Confianza, encanto y astucia", "Siempre busca talento para sus golpes"]
+      },
+      "narracion": [
+        "Raul Bautista es un ladrón de bancos veterano.",
+        "Tiene confianza, encanto y astucia.",
+        "Y siempre anda buscando talento dispuesto a asumir grandes riesgos."
+      ]
+    },
+    {
+      "tipo": "personaje",
+      "capitulo": "Brian Heder",
+      "fuente": "Web oficial de GTA VI",
+      "props": {
+        "nombre": "Brian Heder",
+        "rol": "Contrabandista",
+        "rasgos": ["Los Cayos", "Astillero"],
+        "color": "#57c7ff",
+        "numero": 6,
+        "total": 6,
+        "puntos": ["De la edad de oro del contrabando", "Mueve mercancía desde su astillero", "Aloja a Jason a cambio de favores"]
+      },
+      "narracion": [
+        "Y Brian Heder es un contrabandista clásico de los Cayos.",
+        "Sigue moviendo mercancía desde su astillero, con su tercera esposa, Lori.",
+        "Y deja a Jason vivir gratis en una de sus casas, a cambio de algunos favores."
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "props": {"siguiente": "La radio de GTA 6: emisoras y locutores"},
+      "narracion": [
+        "¿Cuál te da más mala espina? Dímelo en los comentarios.",
+        "Suscríbete para seguir todo lo confirmado de GTA 6."
+      ]
+    }
+  ]
+}

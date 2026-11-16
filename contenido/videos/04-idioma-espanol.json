@@ -1,0 +1,89 @@
+{
+  "id": "04",
+  "slug": "gta-6-esta-en-espanol",
+  "titulo": "¿GTA 6 está en español? Idiomas, doblaje y subtítulos",
+  "publicar": "Miércoles 18",
+  "busquedas": ["gta 6 español", "gta 6 doblaje español", "gta 6 idiomas", "gta 6 subtítulos español", "gta 6 español latino"],
+  "miniatura": {"etiqueta": "GTA 6 · IDIOMAS", "lineas": ["¿ESTÁ EN", "ESPAÑOL?"], "acento": "ESPAÑOL", "sello": "DOBLAJE: NO", "tono": "no"},
+  "descripcion": "¿GTA 6 viene doblado al español? ¿Hay español latino? Te cuento en qué idiomas llega el juego, qué está en español y qué no, y qué hacer si te aparece en inglés.",
+  "etiquetas": ["gta 6", "gta vi", "gta 6 español", "gta 6 doblaje", "gta 6 idiomas", "gta 6 subtítulos", "gta 6 español latino", "gta 6 castellano", "grand theft auto 6"],
+  "fuentes": [
+    {"texto": "Rockstar Games — Ficha de compra de GTA VI (idiomas disponibles)", "url": "https://store.rockstargames.com/game/buy-gta-vi"},
+    {"texto": "Vandal — GTA 6 llegará sin doblaje al español y solo con voces en inglés", "url": "https://vandal.elespanol.com/noticia/1350791241/sin-doblaje-espanol-gta-6-confirma-que-mantiene-la-tradicion-y-solo-llegara-con-voces-en-ingles/"},
+    {"texto": "PlayStation — Soporte de GTA VI (idiomas del juego)", "url": "https://www.playstation.com/en-us/support/games/gta-vi-support/"},
+    {"texto": "Rockstar Games — La música de GTA VI: emisoras de radio", "url": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"}
+  ],
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "capitulo": "¿Viene doblado?",
+      "props": {"etiqueta": "IDIOMAS", "lineas": ["¿GTA 6 ESTÁ", "EN ESPAÑOL?"], "acento": ["ESPAÑOL"]},
+      "narracion": [
+        "¿Viene GTA 6 doblado al español?",
+        "La respuesta corta es no. Pero no vas a tener ningún problema para entenderlo."
+      ]
+    },
+    {
+      "tipo": "dato",
+      "capitulo": "13 idiomas",
+      "fuente": "Tiendas oficiales de Rockstar y Xbox",
+      "props": {"antetitulo": "IDIOMAS DISPONIBLES", "valor": "13", "texto": "idiomas desde el primer día", "nota": "Incluye español de España y español de México", "golpe": 0},
+      "narracion": [
+        "El juego llega en 13 idiomas.",
+        "Y entre ellos hay dos variantes de español: el de España y el de México."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "capitulo": "Qué está en español",
+      "fuente": "Ficha oficial en Microsoft Store",
+      "props": {
+        "titulo": "Cómo llega el español",
+        "items": [
+          {"icono": "voz", "texto": "Voces", "detalle": "No hay doblaje a ningún otro idioma", "tono": "no", "estado": "INGLÉS"},
+          {"icono": "subtitulos", "texto": "Textos y subtítulos", "detalle": "Español de España y español de México", "tono": "ok", "estado": "ESPAÑOL"}
+        ]
+      },
+      "narracion": [
+        "Las voces están solo en inglés.",
+        "Los textos y los subtítulos, en español."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "capitulo": "La tradición de Rockstar",
+      "props": {"icono": "libro", "titulo": "Es la tradición de la saga", "cuerpo": "Ningún GTA se ha doblado al español. Red Dead Redemption 2, tampoco."},
+      "narracion": [
+        "No es una novedad: es la tradición de Rockstar.",
+        "Ningún GTA se ha doblado al español, y Red Dead Redemption 2 tampoco."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "capitulo": "Si te sale en inglés",
+      "props": {"icono": "mundo", "titulo": "¿Te sale en inglés?", "cuerpo": "Revisa primero el idioma del sistema de tu consola.", "tono": "warn"},
+      "narracion": [
+        "Un consejo: si el juego te aparece en inglés, revisa primero el idioma de la consola.",
+        "En juegos anteriores de Rockstar, los textos seguían ese ajuste."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "capitulo": "Lo que sí suena en español",
+      "fuente": "Rockstar Games",
+      "props": {"icono": "musica", "titulo": "Lo que sí suena en español", "cuerpo": "Cocoteo FM: bachata, merengue, dembow y reguetón.", "tono": "ok"},
+      "narracion": [
+        "Y lo que sí vas a oír en español es la música.",
+        "Rockstar ha presentado Cocoteo FM, una emisora latina con bachata, merengue, dembow y reguetón."
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "props": {"siguiente": "El mapa: las 6 zonas de Leonida"},
+      "narracion": [
+        "En resumen: voces en inglés, y todo lo demás en español.",
+        "Suscríbete para más datos confirmados de GTA 6."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "nombre": "Leonida al Día",
+  "alias": "@LeonidaAlDia",
+  "lema": "Todo GTA 6. Solo datos confirmados.",
+  "voz": {
+    "motor": "piper",
+    "modelo": "modelos/es_ES-davefx-medium.onnx",
+    "ritmo": 1.0,
+    "variacion": 0.667,
+    "variacion_ritmo": 0.8,
+    "pausa_entre_oraciones": 0.2
+  }
+}

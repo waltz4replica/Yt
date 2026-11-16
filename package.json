@@ -1,0 +1,33 @@
+{
+  "name": "leonida-al-dia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Canal de YouTube sobre GTA 6: guiones, voz, animaciones y montaje generados por código.",
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "voz": "python3 scripts/tts.py",
+    "verificar-voz": "python3 scripts/verificar_voz.py",
+    "musica": "python3 scripts/musica.py",
+    "build": "node scripts/build.mjs",
+    "canal": "node scripts/build.mjs --solo-canal",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.2.5",
+    "@fontsource/anton": "^5.2.5",
+    "@fontsource/jetbrains-mono": "^5.2.5",
+    "@remotion/bundler": "4.0.543",
+    "@remotion/cli": "4.0.543",
+    "@remotion/fonts": "4.0.543",
+    "@remotion/renderer": "4.0.543",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "remotion": "4.0.543"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.12",
+    "@types/react-dom": "19.1.9",
+    "typescript": "5.9.2"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "03",
+  "slug": "gta-6-pc-ps4-xbox-one-donde-jugar",
+  "titulo": "¿GTA 6 en PC, PS4, Xbox One o Switch 2? Dónde se puede jugar",
+  "publicar": "Miércoles 18 (la víspera es cuando más se pregunta «¿puedo jugarlo en mi consola?»)",
+  "busquedas": ["gta 6 pc", "gta 6 ps4", "gta 6 xbox one", "gta 6 requisitos pc", "gta 6 switch 2", "gta 6 fps"],
+  "miniatura": {"etiqueta": "GTA 6 · PLATAFORMAS", "lineas": ["¿SALE", "EN PC?"], "acento": "PC", "sello": "AÚN NO", "icono": "pc", "tono": "no"},
+  "descripcion": "¿GTA 6 sale en PC? ¿Y en PS4, Xbox One o Switch 2? Repaso consola por consola dónde se puede jugar el 19 de noviembre, la sorpresa de Xbox One por la nube y a cuántos FPS va el juego según Rockstar.",
+  "etiquetas": ["gta 6", "gta vi", "gta 6 pc", "gta 6 ps4", "gta 6 xbox one", "gta 6 requisitos", "gta 6 switch 2", "gta 6 ps5 pro", "gta 6 fps", "gta 6 plataformas", "grand theft auto 6"],
+  "fuentes": [
+    {"texto": "Rockstar Games — Plataformas, ediciones y versiones (soporte oficial)", "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"},
+    {"texto": "Xbox Wire — GTA VI llega a Xbox One y Series X|S mediante Xbox Cloud Gaming (10 nov. 2026)", "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"},
+    {"texto": "GameSpot — Funciones de PS5 Pro, FPS y nube de Xbox confirmados por Rockstar", "url": "https://www.gamespot.com/articles/gta-6-ps5-pro-features-frame-rates-and-xbox-cloud-gaming-details-confirmed-by-rockstar/"},
+    {"texto": "VGC — Rockstar confirma que GTA 6 apunta a 30 FPS", "url": "https://www.videogameschronicle.com/news/rockstar-confirms-gta-6-targets-30-fps-with-ps5-pro-exclusive-ray-tracing/"},
+    {"texto": "TweakTown — Las noticias sobre PC llegarán de Rockstar, dice Take-Two", "url": "https://www.tweaktown.com/news/114580/grand-theft-auto-6-pc-and-physical-disc-news-will-come-from-rockstar-confirms-take-two/index.html"}
+  ],
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "capitulo": "¿En qué consola?",
+      "props": {"etiqueta": "PLATAFORMAS", "lineas": ["¿GTA 6 EN PC,", "PS4 O XBOX ONE?"], "acento": ["PC"]},
+      "narracion": [
+        "¿Se puede jugar a GTA 6 en PC? ¿En PS4? ¿En Xbox One?",
+        "Una de las tres respuestas te va a sorprender."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "capitulo": "Dónde sale seguro",
+      "fuente": "Rockstar Games",
+      "props": {
+        "titulo": "Dónde sale el 19 de noviembre",
+        "desde": 1,
+        "items": [
+          {"icono": "mando", "texto": "PlayStation 5", "detalle": "Con mejoras en PS5 Pro", "tono": "ok", "estado": "SÍ"},
+          {"icono": "mando", "texto": "Xbox Series X y Series S", "detalle": "Las dos, desde el primer día", "tono": "ok", "estado": "SÍ"}
+        ]
+      },
+      "narracion": [
+        "De lanzamiento, GTA 6 sale solo en dos familias de consolas.",
+        "PlayStation 5, con mejoras en PS5 Pro.",
+        "Y en las dos Xbox Series: la X y la S."
+      ]
+    },
+    {
+      "tipo": "veredicto",
+      "capitulo": "¿Y en PC?",
+      "props": {"pregunta": "¿Y en PC?", "icono": "pc", "sello": "SIN ANUNCIAR", "tono": "warn", "detalle": "Sin versión, sin fecha y sin requisitos oficiales", "golpe": 1},
+      "narracion": [
+        "¿Y en PC?",
+        "No está anunciado. Rockstar no ha confirmado ni versión ni fecha.",
+        "Y como no hay requisitos oficiales, cualquier lista de requisitos o descarga para PC que veas hoy es falsa."
+      ]
+    },
+    {
+      "tipo": "linea",
+      "capitulo": "Cuánto tardaron otros",
+      "props": {
+        "titulo": "Lo que tardaron en llegar a PC",
+        "puntos": [
+          {"fecha": "GTA 5", "texto": "Consolas en 2013, PC en 2015: 19 meses"},
+          {"fecha": "Red Dead 2", "texto": "Consolas en 2018, PC en 2019: 12 meses"},
+          {"fecha": "GTA 6", "texto": "Sin fecha para PC", "tono": "warn"}
+        ]
+      },
+      "narracion": [
+        "Como referencia: a PC, GTA 5 tardó 19 meses en llegar.",
+        "Red Dead Redemption 2, unos 12.",
+        "Para GTA 6, de momento, no hay fecha."
+      ]
+    },
+    {
+      "tipo": "veredicto",
+      "capitulo": "PS4 y Switch 2",
+      "props": {"pregunta": "¿En PS4 o Switch 2?", "icono": "mando", "sello": "NO", "tono": "no", "detalle": "No hay versión anunciada para ninguna de las dos", "golpe": 1},
+      "narracion": [
+        "¿En PS4?",
+        "No. Y tampoco hay versión anunciada para Switch 2."
+      ]
+    },
+    {
+      "tipo": "veredicto",
+      "capitulo": "La sorpresa: Xbox One",
+      "fuente": "Xbox Wire, 10 de noviembre de 2026",
+      "props": {"pregunta": "¿En Xbox One?", "icono": "nube", "sello": "SÍ, POR LA NUBE", "tono": "ok", "detalle": "Hay que comprar el juego. Gráficos como en Series S.", "golpe": 1},
+      "narracion": [
+        "¿Y en Xbox One? Aquí está la sorpresa.",
+        "Sí, pero por la nube. Xbox ha confirmado que se podrá jugar desde el primer día con su servicio de juego en la nube.",
+        "Eso sí: hay que comprar el juego, y se ve con los ajustes gráficos de Series S."
+      ]
+    },
+    {
+      "tipo": "dato",
+      "capitulo": "A cuántos FPS va",
+      "fuente": "Rockstar Games, vía GameSpot y VGC",
+      "props": {"antetitulo": "RENDIMIENTO EN CONSOLA", "valor": "30", "unidad": "FPS", "texto": "es el objetivo en todas las consolas", "nota": "PS5 Pro mejora la imagen (PSSR y sombras con trazado de rayos), no la fluidez", "golpe": 0},
+      "narracion": [
+        "Último dato: Rockstar ha confirmado que el objetivo son 30 FPS en todas las consolas.",
+        "En PS5 Pro mejora la imagen, pero no la fluidez."
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "props": {"siguiente": "¿GTA 6 está en español?"},
+      "narracion": [
+        "Si algo de esto cambia, lo actualizo en el comentario fijado.",
+        "Suscríbete y no te pierdas nada de GTA 6."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5363 @@
+{
+ "canal": {
+  "nombre": "Leonida al Día",
+  "alias": "@LeonidaAlDia",
+  "lema": "Todo GTA 6. Solo datos confirmados.",
+  "voz": {
+   "motor": "piper",
+   "modelo": "modelos/es_ES-davefx-medium.onnx",
+   "ritmo": 1.0,
+   "variacion": 0.667,
+   "variacion_ritmo": 0.8,
+   "pausa_entre_oraciones": 0.2
+  }
+ },
+ "videos": [
+  {
+   "id": "01",
+   "slug": "a-que-hora-sale-gta-6",
+   "titulo": "¿A qué hora sale GTA 6? Hora exacta por país, precarga y peso",
+   "publicar": "Cuanto antes: lunes 16 o martes 17 (deja de servir cuando el juego ya ha salido)",
+   "busquedas": [
+    "gta 6 a qué hora sale",
+    "gta 6 hora de salida españa",
+    "gta 6 hora méxico",
+    "gta 6 precarga",
+    "gta 6 cuánto pesa"
+   ],
+   "miniatura": {
+    "etiqueta": "GTA 6 · JUEVES 19",
+    "lineas": [
+     "¿A QUÉ",
+     "HORA SALE?"
+    ],
+    "acento": "HORA",
+    "sello": "00:00",
+    "icono": "reloj"
+   },
+   "descripcion": "GTA 6 no sale a la misma hora en todo el mundo. Te cuento la hora exacta de desbloqueo según Rockstar, en qué orden llega a España y Latinoamérica, cuánto pesa la descarga y qué hacer hoy para poder jugar a medianoche.",
+   "etiquetas": [
+    "gta 6",
+    "gta vi",
+    "gta 6 hora de salida",
+    "a qué hora sale gta 6",
+    "gta 6 precarga",
+    "gta 6 cuánto pesa",
+    "gta 6 lanzamiento",
+    "gta 6 españa",
+    "gta 6 méxico",
+    "gta 6 argentina",
+    "grand theft auto 6"
+   ],
+   "fuentes": [
+    {
+     "texto": "Rockstar Games — Horarios regionales de precarga y lanzamiento (soporte oficial)",
+     "url": "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s"
+    },
+    {
+     "texto": "Rockstar Games — Preguntas frecuentes sobre la precarga (soporte oficial)",
+     "url": "https://support.rockstargames.com/articles/7nPqOA2uCbpEQHXx7KVrYd/grand-theft-auto-vi-pre-load-faq"
+    },
+    {
+     "texto": "Rockstar Games — Requisitos de instalación (soporte oficial)",
+     "url": "https://support.rockstargames.com/articles/M6h7B5fJZMwG1dnzQkt4Z/grand-theft-auto-vi-installation-requirements"
+    },
+    {
+     "texto": "Rockstar Games — Plataformas, ediciones y versiones (soporte oficial)",
+     "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+    }
+   ],
+   "fps": 30,
+   "frames": 2601,
+   "audio": "audio/01.m4a",
+   "escenas": [
+    {
+     "tipo": "gancho",
+     "capitulo": "La pregunta",
+     "props": {
+      "etiqueta": "LANZAMIENTO · JUEVES 19 DE NOVIEMBRE",
+      "lineas": [
+       "¿A QUÉ HORA",
+       "SALE GTA 6?"
+      ],
+      "acento": [
+       "HORA"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 9,
+       "end": 113,
+       "text": "El jueves sale GTA 6, pero no a la misma hora en todo el mundo."
+      },
+      {
+       "start": 120,
+       "end": 267,
+       "text": "Y si no preparas la consola antes, a medianoche vas a estar mirando una barra de descarga."
+      }
+     ],
+     "start": 0,
+     "dur": 276,
+     "beats": [
+      9,
+      120
+     ]
+    },
+    {
+     "tipo": "dato",
+     "capitulo": "La hora oficial",
+     "fuente": "Soporte oficial de Rockstar Games",
+     "props": {
+      "antetitulo": "DESBLOQUEO OFICIAL",
+      "valor": "00:00",
+      "texto": "hora local · jueves 19 de noviembre",
+      "nota": "En todas las regiones · PS5 y Xbox Series X|S"
+     },
+     "lineas": [
+      {
+       "start": 287,
+       "end": 503,
+       "text": "Según el soporte oficial de Rockstar, el juego se desbloquea a medianoche, hora local, del jueves 19 de noviembre."
+      },
+      {
+       "start": 510,
+       "end": 642,
+       "text": "En todas las regiones, y tanto en PlayStation 5 como en Xbox Series."
+      }
+     ],
+     "start": 276,
+     "dur": 375,
+     "beats": [
+      11,
+      234
+     ]
+    },
+    {
+     "tipo": "relojes",
+     "capitulo": "Quién juega primero",
+     "props": {
+      "titulo": "Noche del miércoles 18 al jueves 19",
+      "desde": 1,
+      "items": [
+       {
+        "lugar": "España (península)",
+        "extra": "Primero"
+       },
+       {
+        "lugar": "Canarias",
+        "extra": "+1 h"
+       },
+       {
+        "lugar": "Argentina · Chile · Uruguay",
+        "extra": "+4 h"
+       },
+       {
+        "lugar": "Colombia · Perú · Ecuador",
+        "extra": "+6 h"
+       },
+       {
+        "lugar": "México (centro)",
+        "extra": "+7 h"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 661,
+       "end": 833,
+       "text": "Es decir: la noche del miércoles 18 al jueves 19, cuando tu reloj marque las doce."
+      },
+      {
+       "start": 840,
+       "end": 983,
+       "text": "Por eso no todos jugamos a la vez. En el mundo hispano, la España peninsular va primero."
+      },
+      {
+       "start": 990,
+       "end": 1034,
+       "text": "Una hora después, Canarias."
+      },
+      {
+       "start": 1041,
+       "end": 1122,
+       "text": "Cuatro horas después, Argentina, Chile y Uruguay."
+      },
+      {
+       "start": 1129,
+       "end": 1199,
+       "text": "Seis horas después, Colombia, Perú y Ecuador."
+      },
+      {
+       "start": 1206,
+       "end": 1279,
+       "text": "Y siete horas después, el centro de México."
+      }
+     ],
+     "start": 651,
+     "dur": 637,
+     "beats": [
+      10,
+      189,
+      339,
+      390,
+      478,
+      555
+     ]
+    },
+    {
+     "tipo": "dato",
+     "capitulo": "Cuánto pesa",
+     "fuente": "Soporte oficial de Rockstar Games",
+     "props": {
+      "antetitulo": "ESPACIO LIBRE NECESARIO",
+      "prefijo": "hasta",
+      "valor": "212",
+      "unidad": "GB",
+      "texto": "según tu consola",
+      "nota": "Precarga digital abierta desde el 10 de noviembre",
+      "golpe": 1
+     },
+     "lineas": [
+      {
+       "start": 1298,
+       "end": 1428,
+       "text": "Ahora, lo importante. La precarga digital está abierta desde el 10 de noviembre."
+      },
+      {
+       "start": 1435,
+       "end": 1551,
+       "text": "Y Rockstar pide tener libres hasta 212 GB, según la consola."
+      }
+     ],
+     "start": 1288,
+     "dur": 272,
+     "beats": [
+      10,
+      147
+     ]
+    },
+    {
+     "tipo": "pasos",
+     "capitulo": "Cómo dejarlo listo",
+     "fuente": "Soporte oficial de Rockstar Games",
+     "props": {
+      "titulo": "Déjalo listo antes de medianoche",
+      "pasos": [
+       {
+        "texto": "Libera espacio",
+        "detalle": "Hasta 212 GB"
+       },
+       {
+        "texto": "Activa las descargas automáticas",
+        "detalle": "En PS5 y en Xbox"
+       },
+       {
+        "texto": "Consola encendida o en reposo",
+        "detalle": "Así descarga sola"
+       },
+       {
+        "texto": "¿Edición física? Canjea el código",
+        "detalle": "La caja no trae disco"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1571,
+       "end": 1641,
+       "text": "Para tenerlo listo: uno, libera espacio."
+      },
+      {
+       "start": 1648,
+       "end": 1721,
+       "text": "Dos, activa las descargas automáticas."
+      },
+      {
+       "start": 1728,
+       "end": 1825,
+       "text": "Tres, deja la consola encendida o en modo reposo."
+      },
+      {
+       "start": 1833,
+       "end": 1985,
+       "text": "Y cuatro: si compraste la edición física, canjea ya el código. La caja no trae disco."
+      }
+     ],
+     "start": 1560,
+     "dur": 434,
+     "beats": [
+      11,
+      88,
+      168,
+      273
+     ]
+    },
+    {
+     "tipo": "lista",
+     "capitulo": "Resumen",
+     "props": {
+      "titulo": "En resumen",
+      "items": [
+       {
+        "icono": "reloj",
+        "texto": "Medianoche local del jueves 19"
+       },
+       {
+        "icono": "descarga",
+        "texto": "Hasta 212 GB · precarga ya abierta"
+       },
+       {
+        "icono": "enlace",
+        "texto": "Horarios oficiales por región",
+        "detalle": "Enlace en la descripción"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 2004,
+       "end": 2103,
+       "text": "En resumen: medianoche local del jueves 19."
+      },
+      {
+       "start": 2110,
+       "end": 2188,
+       "text": "Hasta 212 GB, con la precarga ya abierta."
+      },
+      {
+       "start": 2196,
+       "end": 2359,
+       "text": "Y los horarios oficiales por región están en la web de soporte de Rockstar. Te dejo el enlace en la descripción."
+      }
+     ],
+     "start": 1994,
+     "dur": 374,
+     "beats": [
+      10,
+      116,
+      202
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "props": {
+      "siguiente": "Precio y ediciones: ¿Standard o Ultimate?"
+     },
+     "lineas": [
+      {
+       "start": 2378,
+       "end": 2490,
+       "text": "Esta semana subo todo lo confirmado de GTA 6, sin rumores."
+      },
+      {
+       "start": 2497,
+       "end": 2553,
+       "text": "Suscríbete, y nos vemos en Leonida."
+      }
+     ],
+     "start": 2368,
+     "dur": 233,
+     "beats": [
+      10,
+      129
+     ]
+    }
+   ],
+   "subtitulos": [
+    {
+     "start": 9,
+     "end": 65,
+     "text": "El jueves sale GTA 6, pero no a la"
+    },
+    {
+     "start": 65,
+     "end": 113,
+     "text": "misma hora en todo el mundo."
+    },
+    {
+     "start": 120,
+     "end": 175,
+     "text": "Y si no preparas la consola antes,"
+    },
+    {
+     "start": 175,
+     "end": 226,
+     "text": "a medianoche vas a estar mirando"
+    },
+    {
+     "start": 226,
+     "end": 267,
+     "text": "una barra de descarga."
+    },
+    {
+     "start": 287,
+     "end": 355,
+     "text": "Según el soporte oficial de Rockstar,"
+    },
+    {
+     "start": 355,
+     "end": 424,
+     "text": "el juego se desbloquea a medianoche,"
+    },
+    {
+     "start": 424,
+     "end": 503,
+     "text": "hora local, del jueves 19 de noviembre."
+    },
+    {
+     "start": 510,
+     "end": 549,
+     "text": "En todas las regiones,"
+    },
+    {
+     "start": 549,
+     "end": 597,
+     "text": "y tanto en PlayStation 5"
+    },
+    {
+     "start": 597,
+     "end": 642,
+     "text": "como en Xbox Series."
+    },
+    {
+     "start": 661,
+     "end": 710,
+     "text": "Es decir: la noche del"
+    },
+    {
+     "start": 710,
+     "end": 763,
+     "text": "miércoles 18 al jueves 19,"
+    },
+    {
+     "start": 763,
+     "end": 833,
+     "text": "cuando tu reloj marque las doce."
+    },
+    {
+     "start": 840,
+     "end": 894,
+     "text": "Por eso no todos jugamos a la vez."
+    },
+    {
+     "start": 894,
+     "end": 941,
+     "text": "En el mundo hispano, la España"
+    },
+    {
+     "start": 941,
+     "end": 983,
+     "text": "peninsular va primero."
+    },
+    {
+     "start": 990,
+     "end": 1034,
+     "text": "Una hora después, Canarias."
+    },
+    {
+     "start": 1041,
+     "end": 1093,
+     "text": "Cuatro horas después, Argentina,"
+    },
+    {
+     "start": 1093,
+     "end": 1122,
+     "text": "Chile y Uruguay."
+    },
+    {
+     "start": 1129,
+     "end": 1173,
+     "text": "Seis horas después, Colombia,"
+    },
+    {
+     "start": 1173,
+     "end": 1199,
+     "text": "Perú y Ecuador."
+    },
+    {
+     "start": 1206,
+     "end": 1242,
+     "text": "Y siete horas después,"
+    },
+    {
+     "start": 1242,
+     "end": 1279,
+     "text": "el centro de México."
+    },
+    {
+     "start": 1298,
+     "end": 1338,
+     "text": "Ahora, lo importante."
+    },
+    {
+     "start": 1338,
+     "end": 1386,
+     "text": "La precarga digital está abierta"
+    },
+    {
+     "start": 1386,
+     "end": 1428,
+     "text": "desde el 10 de noviembre."
+    },
+    {
+     "start": 1435,
+     "end": 1470,
+     "text": "Y Rockstar pide tener"
+    },
+    {
+     "start": 1470,
+     "end": 1514,
+     "text": "libres hasta 212 GB,"
+    },
+    {
+     "start": 1514,
+     "end": 1551,
+     "text": "según la consola."
+    },
+    {
+     "start": 1571,
+     "end": 1604,
+     "text": "Para tenerlo listo:"
+    },
+    {
+     "start": 1604,
+     "end": 1641,
+     "text": "uno, libera espacio."
+    },
+    {
+     "start": 1648,
+     "end": 1721,
+     "text": "Dos, activa las descargas automáticas."
+    },
+    {
+     "start": 1728,
+     "end": 1769,
+     "text": "Tres, deja la consola"
+    },
+    {
+     "start": 1769,
+     "end": 1825,
+     "text": "encendida o en modo reposo."
+    },
+    {
+     "start": 1833,
+     "end": 1878,
+     "text": "Y cuatro: si compraste la"
+    },
+    {
+     "start": 1878,
+     "end": 1907,
+     "text": "edición física,"
+    },
+    {
+     "start": 1907,
+     "end": 1945,
+     "text": "canjea ya el código."
+    },
+    {
+     "start": 1945,
+     "end": 1985,
+     "text": "La caja no trae disco."
+    },
+    {
+     "start": 2004,
+     "end": 2057,
+     "text": "En resumen: medianoche"
+    },
+    {
+     "start": 2057,
+     "end": 2103,
+     "text": "local del jueves 19."
+    },
+    {
+     "start": 2110,
+     "end": 2148,
+     "text": "Hasta 212 GB, con la"
+    },
+    {
+     "start": 2148,
+     "end": 2188,
+     "text": "precarga ya abierta."
+    },
+    {
+     "start": 2196,
+     "end": 2255,
+     "text": "Y los horarios oficiales por región están"
+    },
+    {
+     "start": 2255,
+     "end": 2304,
+     "text": "en la web de soporte de Rockstar."
+    },
+    {
+     "start": 2304,
+     "end": 2359,
+     "text": "Te dejo el enlace en la descripción."
+    },
+    {
+     "start": 2378,
+     "end": 2419,
+     "text": "Esta semana subo todo lo"
+    },
+    {
+     "start": 2419,
+     "end": 2461,
+     "text": "confirmado de GTA 6,"
+    },
+    {
+     "start": 2461,
+     "end": 2490,
+     "text": "sin rumores."
+    },
+    {
+     "start": 2497,
+     "end": 2553,
+     "text": "Suscríbete, y nos vemos en Leonida."
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "slug": "gta-6-precio-y-ediciones",
+   "titulo": "GTA 6: precio y ediciones. ¿Standard o Ultimate?",
+   "publicar": "Martes 17 (el extra por comprar antes del día 20 es el gancho: cuanto antes, mejor)",
+   "busquedas": [
+    "gta 6 precio",
+    "gta 6 ediciones",
+    "gta 6 ultimate edition",
+    "gta 6 edición física",
+    "gta 6 cuánto cuesta"
+   ],
+   "miniatura": {
+    "etiqueta": "GTA 6 · PRECIO",
+    "lineas": [
+     "¿STANDARD",
+     "O ULTIMATE?"
+    ],
+    "acento": "ULTIMATE",
+    "sello": "79,99 €",
+    "tono": "warn"
+   },
+   "descripcion": "GTA 6 tiene dos ediciones y una versión física que no trae disco. Te cuento cuánto cuesta cada una, qué añade la Ultimate, qué extra te llevas si compras antes del 20 de noviembre y cuál elegiría yo.",
+   "etiquetas": [
+    "gta 6",
+    "gta vi",
+    "gta 6 precio",
+    "gta 6 ediciones",
+    "gta 6 ultimate edition",
+    "gta 6 standard edition",
+    "gta 6 edición física",
+    "gta 6 cuánto cuesta",
+    "gta 6 reserva",
+    "grand theft auto 6"
+   ],
+   "fuentes": [
+    {
+     "texto": "Rockstar Games — Plataformas, ediciones y versiones (soporte oficial)",
+     "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+    },
+    {
+     "texto": "Rockstar Games — Ediciones de GTA VI",
+     "url": "https://www.rockstargames.com/VI/editions"
+    },
+    {
+     "texto": "Rockstar Games — Detalles de la reserva (soporte oficial)",
+     "url": "https://support.rockstargames.com/articles/46YkMi4rHxYXMeIHtZiKaE/grand-theft-auto-vi-pre-order-details"
+    },
+    {
+     "texto": "Xbox — Ficha de GTA VI: Ultimate Edition",
+     "url": "https://www.xbox.com/en-us/games/store/grand-theft-auto-vi-ultimate-edition/9nnzsnhlr63l"
+    },
+    {
+     "texto": "Vandal — Todas las ediciones de GTA 6 y su precio en España",
+     "url": "https://vandal.elespanol.com/noticia/2026315041/todas-las-ediciones-de-gta-6-diferencias-contenido-y-precio-en-espana/"
+    }
+   ],
+   "fps": 30,
+   "frames": 2273,
+   "audio": "audio/02.m4a",
+   "escenas": [
+    {
+     "tipo": "gancho",
+     "capitulo": "¿80 o 100 euros?",
+     "props": {
+      "etiqueta": "PRECIO Y EDICIONES",
+      "lineas": [
+       "¿80 O 100",
+       "EUROS?"
+      ],
+      "acento": [
+       "100"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 9,
+       "end": 99,
+       "text": "¿Cuánto cuesta GTA 6? 80 euros… o 100."
+      },
+      {
+       "start": 106,
+       "end": 243,
+       "text": "Y la edición física tiene un detalle que mucha gente no sabe. Te lo cuento en un minuto."
+      }
+     ],
+     "start": 0,
+     "dur": 252,
+     "beats": [
+      9,
+      106
+     ]
+    },
+    {
+     "tipo": "comparar",
+     "capitulo": "Las dos ediciones",
+     "fuente": "Rockstar Games y tiendas oficiales",
+     "props": {
+      "titulo": "Las dos ediciones",
+      "a": {
+       "sub": "La básica",
+       "nombre": "Standard",
+       "precio": "79,99 €",
+       "puntos": [
+        "El juego completo",
+        "Digital, o en caja con código"
+       ],
+       "pie": "79,99 $ en Estados Unidos",
+       "tono": "info"
+      },
+      "b": {
+       "sub": "Solo digital",
+       "nombre": "Ultimate",
+       "precio": "99,99 €",
+       "puntos": [
+        "El juego completo",
+        "Vehículos, armas y ropa exclusivos"
+       ],
+       "pie": "99,99 $ en Estados Unidos",
+       "tono": "warn"
+      }
+     },
+     "lineas": [
+      {
+       "start": 263,
+       "end": 510,
+       "text": "Hay dos ediciones. La Standard cuesta 79,99 euros en España, y 79,99 dólares en Estados Unidos."
+      },
+      {
+       "start": 518,
+       "end": 656,
+       "text": "La Ultimate sube a 99,99, y solo existe en digital."
+      }
+     ],
+     "start": 252,
+     "dur": 413,
+     "beats": [
+      11,
+      266
+     ]
+    },
+    {
+     "tipo": "nota",
+     "capitulo": "Qué añade la Ultimate",
+     "fuente": "Rockstar Games",
+     "props": {
+      "icono": "estrella",
+      "titulo": "¿Qué añade la Ultimate?",
+      "desde": 0,
+      "puntos": [
+       "Vehículos, armas y ropa exclusivos",
+       "La mejora a Ultimate se vende aparte"
+      ],
+      "tono": "warn"
+     },
+     "lineas": [
+      {
+       "start": 675,
+       "end": 893,
+       "text": "¿Qué añade la Ultimate? Según Rockstar, una colección exclusiva de vehículos, armas y ropa para la historia de Jason y Lucia."
+      },
+      {
+       "start": 900,
+       "end": 1074,
+       "text": "Y no hace falta decidir hoy: la mejora a Ultimate se vende aparte, y puedes comprarla más adelante."
+      }
+     ],
+     "start": 665,
+     "dur": 418,
+     "beats": [
+      10,
+      235
+     ]
+    },
+    {
+     "tipo": "veredicto",
+     "capitulo": "La edición física",
+     "fuente": "Soporte oficial de Rockstar Games",
+     "props": {
+      "pregunta": "¿Edición física?",
+      "icono": "caja",
+      "sello": "SIN DISCO",
+      "tono": "warn",
+      "detalle": "La caja trae un código de descarga",
+      "golpe": 1
+     },
+     "lineas": [
+      {
+       "start": 1093,
+       "end": 1141,
+       "text": "Ojo con la edición física."
+      },
+      {
+       "start": 1148,
+       "end": 1303,
+       "text": "La caja no trae disco: trae un código de descarga. Lo confirma el soporte de Rockstar."
+      }
+     ],
+     "start": 1083,
+     "dur": 229,
+     "beats": [
+      10,
+      65
+     ]
+    },
+    {
+     "tipo": "lista",
+     "capitulo": "El extra con fecha límite",
+     "fuente": "Rockstar Games",
+     "props": {
+      "titulo": "Si compras antes del 20 de noviembre",
+      "desde": 1,
+      "items": [
+       {
+        "icono": "coche",
+        "texto": "Pack Vintage Vice City",
+        "detalle": "Un coche clásico, ropa y un diseño de arma",
+        "tono": "warn"
+       },
+       {
+        "icono": "estrella",
+        "texto": "Un mes de GTA+",
+        "detalle": "Incluido con la compra digital",
+        "tono": "warn"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1322,
+       "end": 1486,
+       "text": "Y un detalle con fecha: las compras digitales hechas antes del 20 de noviembre incluyen dos extras."
+      },
+      {
+       "start": 1493,
+       "end": 1608,
+       "text": "El pack Vintage Vice City, con un coche clásico, ropa y un diseño de arma."
+      },
+      {
+       "start": 1615,
+       "end": 1653,
+       "text": "Y un mes de GTA+."
+      }
+     ],
+     "start": 1312,
+     "dur": 350,
+     "beats": [
+      10,
+      181,
+      303
+     ]
+    },
+    {
+     "tipo": "veredicto",
+     "capitulo": "¿Cuál comprar?",
+     "props": {
+      "pregunta": "¿Cuál compro?",
+      "sello": "STANDARD",
+      "tono": "ok",
+      "detalle": "Tiene el juego completo. La Ultimate es contenido extra.",
+      "golpe": 1
+     },
+     "lineas": [
+      {
+       "start": 1673,
+       "end": 1711,
+       "text": "Entonces, ¿cuál compro?"
+      },
+      {
+       "start": 1718,
+       "end": 1859,
+       "text": "Mi opinión: si solo quieres jugar la historia, la Standard tiene el juego completo."
+      },
+      {
+       "start": 1867,
+       "end": 1978,
+       "text": "La Ultimate es contenido extra, y siempre puedes mejorar después."
+      }
+     ],
+     "start": 1662,
+     "dur": 325,
+     "beats": [
+      11,
+      56,
+      205
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "props": {
+      "siguiente": "¿GTA 6 en PC, PS4 o Xbox One?"
+     },
+     "lineas": [
+      {
+       "start": 1997,
+       "end": 2131,
+       "text": "Los precios pueden variar según el país y la tienda, así que compruébalo antes de pagar."
+      },
+      {
+       "start": 2138,
+       "end": 2225,
+       "text": "Suscríbete para ver todo lo confirmado de GTA 6."
+      }
+     ],
+     "start": 1987,
+     "dur": 286,
+     "beats": [
+      10,
+      151
+     ]
+    }
+   ],
+   "subtitulos": [
+    {
+     "start": 9,
+     "end": 58,
+     "text": "¿Cuánto cuesta GTA 6?"
+    },
+    {
+     "start": 58,
+     "end": 99,
+     "text": "80 euros… o 100."
+    },
+    {
+     "start": 106,
+     "end": 159,
+     "text": "Y la edición física tiene un detalle"
+    },
+    {
+     "start": 159,
+     "end": 200,
+     "text": "que mucha gente no sabe."
+    },
+    {
+     "start": 200,
+     "end": 243,
+     "text": "Te lo cuento en un minuto."
+    },
+    {
+     "start": 263,
+     "end": 297,
+     "text": "Hay dos ediciones."
+    },
+    {
+     "start": 297,
+     "end": 327,
+     "text": "La Standard cuesta"
+    },
+    {
+     "start": 327,
+     "end": 408,
+     "text": "79,99 euros en España,"
+    },
+    {
+     "start": 408,
+     "end": 510,
+     "text": "y 79,99 dólares en Estados Unidos."
+    },
+    {
+     "start": 518,
+     "end": 609,
+     "text": "La Ultimate sube a 99,99,"
+    },
+    {
+     "start": 609,
+     "end": 656,
+     "text": "y solo existe en digital."
+    },
+    {
+     "start": 675,
+     "end": 718,
+     "text": "¿Qué añade la Ultimate?"
+    },
+    {
+     "start": 718,
+     "end": 769,
+     "text": "Según Rockstar, una colección"
+    },
+    {
+     "start": 769,
+     "end": 811,
+     "text": "exclusiva de vehículos,"
+    },
+    {
+     "start": 811,
+     "end": 858,
+     "text": "armas y ropa para la historia"
+    },
+    {
+     "start": 858,
+     "end": 893,
+     "text": "de Jason y Lucia."
+    },
+    {
+     "start": 900,
+     "end": 951,
+     "text": "Y no hace falta decidir hoy:"
+    },
+    {
+     "start": 951,
+     "end": 1013,
+     "text": "la mejora a Ultimate se vende aparte,"
+    },
+    {
+     "start": 1013,
+     "end": 1074,
+     "text": "y puedes comprarla más adelante."
+    },
+    {
+     "start": 1093,
+     "end": 1141,
+     "text": "Ojo con la edición física."
+    },
+    {
+     "start": 1148,
+     "end": 1189,
+     "text": "La caja no trae disco:"
+    },
+    {
+     "start": 1189,
+     "end": 1240,
+     "text": "trae un código de descarga."
+    },
+    {
+     "start": 1240,
+     "end": 1303,
+     "text": "Lo confirma el soporte de Rockstar."
+    },
+    {
+     "start": 1322,
+     "end": 1363,
+     "text": "Y un detalle con fecha:"
+    },
+    {
+     "start": 1363,
+     "end": 1427,
+     "text": "las compras digitales hechas antes del 20"
+    },
+    {
+     "start": 1427,
+     "end": 1486,
+     "text": "de noviembre incluyen dos extras."
+    },
+    {
+     "start": 1493,
+     "end": 1534,
+     "text": "El pack Vintage Vice City,"
+    },
+    {
+     "start": 1534,
+     "end": 1576,
+     "text": "con un coche clásico, ropa y"
+    },
+    {
+     "start": 1576,
+     "end": 1608,
+     "text": "un diseño de arma."
+    },
+    {
+     "start": 1615,
+     "end": 1653,
+     "text": "Y un mes de GTA+."
+    },
+    {
+     "start": 1673,
+     "end": 1711,
+     "text": "Entonces, ¿cuál compro?"
+    },
+    {
+     "start": 1718,
+     "end": 1766,
+     "text": "Mi opinión: si solo quieres"
+    },
+    {
+     "start": 1766,
+     "end": 1797,
+     "text": "jugar la historia,"
+    },
+    {
+     "start": 1797,
+     "end": 1859,
+     "text": "la Standard tiene el juego completo."
+    },
+    {
+     "start": 1867,
+     "end": 1918,
+     "text": "La Ultimate es contenido extra,"
+    },
+    {
+     "start": 1918,
+     "end": 1978,
+     "text": "y siempre puedes mejorar después."
+    },
+    {
+     "start": 1997,
+     "end": 2044,
+     "text": "Los precios pueden variar según"
+    },
+    {
+     "start": 2044,
+     "end": 2074,
+     "text": "el país y la tienda,"
+    },
+    {
+     "start": 2074,
+     "end": 2131,
+     "text": "así que compruébalo antes de pagar."
+    },
+    {
+     "start": 2138,
+     "end": 2181,
+     "text": "Suscríbete para ver todo lo"
+    },
+    {
+     "start": 2181,
+     "end": 2225,
+     "text": "confirmado de GTA 6."
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "slug": "gta-6-pc-ps4-xbox-one-donde-jugar",
+   "titulo": "¿GTA 6 en PC, PS4, Xbox One o Switch 2? Dónde se puede jugar",
+   "publicar": "Miércoles 18 (la víspera es cuando más se pregunta «¿puedo jugarlo en mi consola?»)",
+   "busquedas": [
+    "gta 6 pc",
+    "gta 6 ps4",
+    "gta 6 xbox one",
+    "gta 6 requisitos pc",
+    "gta 6 switch 2",
+    "gta 6 fps"
+   ],
+   "miniatura": {
+    "etiqueta": "GTA 6 · PLATAFORMAS",
+    "lineas": [
+     "¿SALE",
+     "EN PC?"
+    ],
+    "acento": "PC",
+    "sello": "AÚN NO",
+    "icono": "pc",
+    "tono": "no"
+   },
+   "descripcion": "¿GTA 6 sale en PC? ¿Y en PS4, Xbox One o Switch 2? Repaso consola por consola dónde se puede jugar el 19 de noviembre, la sorpresa de Xbox One por la nube y a cuántos FPS va el juego según Rockstar.",
+   "etiquetas": [
+    "gta 6",
+    "gta vi",
+    "gta 6 pc",
+    "gta 6 ps4",
+    "gta 6 xbox one",
+    "gta 6 requisitos",
+    "gta 6 switch 2",
+    "gta 6 ps5 pro",
+    "gta 6 fps",
+    "gta 6 plataformas",
+    "grand theft auto 6"
+   ],
+   "fuentes": [
+    {
+     "texto": "Rockstar Games — Plataformas, ediciones y versiones (soporte oficial)",
+     "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+    },
+    {
+     "texto": "Xbox Wire — GTA VI llega a Xbox One y Series X|S mediante Xbox Cloud Gaming (10 nov. 2026)",
+     "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+    },
+    {
+     "texto": "GameSpot — Funciones de PS5 Pro, FPS y nube de Xbox confirmados por Rockstar",
+     "url": "https://www.gamespot.com/articles/gta-6-ps5-pro-features-frame-rates-and-xbox-cloud-gaming-details-confirmed-by-rockstar/"
+    },
+    {
+     "texto": "VGC — Rockstar confirma que GTA 6 apunta a 30 FPS",
+     "url": "https://www.videogameschronicle.com/news/rockstar-confirms-gta-6-targets-30-fps-with-ps5-pro-exclusive-ray-tracing/"
+    },
+    {
+     "texto": "TweakTown — Las noticias sobre PC llegarán de Rockstar, dice Take-Two",
+     "url": "https://www.tweaktown.com/news/114580/grand-theft-auto-6-pc-and-physical-disc-news-will-come-from-rockstar-confirms-take-two/index.html"
+    }
+   ],
+   "fps": 30,
+   "frames": 2288,
+   "audio": "audio/03.m4a",
+   "escenas": [
+    {
+     "tipo": "gancho",
+     "capitulo": "¿En qué consola?",
+     "props": {
+      "etiqueta": "PLATAFORMAS",
+      "lineas": [
+       "¿GTA 6 EN PC,",
+       "PS4 O XBOX ONE?"
+      ],
+      "acento": [
+       "PC"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 9,
+       "end": 130,
+       "text": "¿Se puede jugar a GTA 6 en PC? ¿En PS4? ¿En Xbox One?"
+      },
+      {
+       "start": 137,
+       "end": 204,
+       "text": "Una de las tres respuestas te va a sorprender."
+      }
+     ],
+     "start": 0,
+     "dur": 213,
+     "beats": [
+      9,
+      137
+     ]
+    },
+    {
+     "tipo": "lista",
+     "capitulo": "Dónde sale seguro",
+     "fuente": "Rockstar Games",
+     "props": {
+      "titulo": "Dónde sale el 19 de noviembre",
+      "desde": 1,
+      "items": [
+       {
+        "icono": "mando",
+        "texto": "PlayStation 5",
+        "detalle": "Con mejoras en PS5 Pro",
+        "tono": "ok",
+        "estado": "SÍ"
+       },
+       {
+        "icono": "mando",
+        "texto": "Xbox Series X y Series S",
+        "detalle": "Las dos, desde el primer día",
+        "tono": "ok",
+        "estado": "SÍ"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 224,
+       "end": 323,
+       "text": "De lanzamiento, GTA 6 sale solo en dos familias de consolas."
+      },
+      {
+       "start": 331,
+       "end": 413,
+       "text": "PlayStation 5, con mejoras en PS5 Pro."
+      },
+      {
+       "start": 421,
+       "end": 517,
+       "text": "Y en las dos Xbox Series: la X y la S."
+      }
+     ],
+     "start": 213,
+     "dur": 313,
+     "beats": [
+      11,
+      118,
+      208
+     ]
+    },
+    {
+     "tipo": "veredicto",
+     "capitulo": "¿Y en PC?",
+     "props": {
+      "pregunta": "¿Y en PC?",
+      "icono": "pc",
+      "sello": "SIN ANUNCIAR",
+      "tono": "warn",
+      "detalle": "Sin versión, sin fecha y sin requisitos oficiales",
+      "golpe": 1
+     },
+     "lineas": [
+      {
+       "start": 537,
+       "end": 556,
+       "text": "¿Y en PC?"
+      },
+      {
+       "start": 564,
+       "end": 669,
+       "text": "No está anunciado. Rockstar no ha confirmado ni versión ni fecha."
+      },
+      {
+       "start": 676,
+       "end": 845,
+       "text": "Y como no hay requisitos oficiales, cualquier lista de requisitos o descarga para PC que veas hoy es falsa."
+      }
+     ],
+     "start": 526,
+     "dur": 328,
+     "beats": [
+      11,
+      38,
+      150
+     ]
+    },
+    {
+     "tipo": "linea",
+     "capitulo": "Cuánto tardaron otros",
+     "props": {
+      "titulo": "Lo que tardaron en llegar a PC",
+      "puntos": [
+       {
+        "fecha": "GTA 5",
+        "texto": "Consolas en 2013, PC en 2015: 19 meses"
+       },
+       {
+        "fecha": "Red Dead 2",
+        "texto": "Consolas en 2018, PC en 2019: 12 meses"
+       },
+       {
+        "fecha": "GTA 6",
+        "texto": "Sin fecha para PC",
+        "tono": "warn"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 865,
+       "end": 998,
+       "text": "Como referencia: a PC, GTA 5 tardó 19 meses en llegar."
+      },
+      {
+       "start": 1005,
+       "end": 1065,
+       "text": "Red Dead Redemption 2, unos 12."
+      },
+      {
+       "start": 1073,
+       "end": 1150,
+       "text": "Para GTA 6, de momento, no hay fecha."
+      }
+     ],
+     "start": 854,
+     "dur": 305,
+     "beats": [
+      11,
+      151,
+      219
+     ]
+    },
+    {
+     "tipo": "veredicto",
+     "capitulo": "PS4 y Switch 2",
+     "props": {
+      "pregunta": "¿En PS4 o Switch 2?",
+      "icono": "mando",
+      "sello": "NO",
+      "tono": "no",
+      "detalle": "No hay versión anunciada para ninguna de las dos",
+      "golpe": 1
+     },
+     "lineas": [
+      {
+       "start": 1169,
+       "end": 1195,
+       "text": "¿En PS4?"
+      },
+      {
+       "start": 1203,
+       "end": 1292,
+       "text": "No. Y tampoco hay versión anunciada para Switch 2."
+      }
+     ],
+     "start": 1159,
+     "dur": 142,
+     "beats": [
+      10,
+      44
+     ]
+    },
+    {
+     "tipo": "veredicto",
+     "capitulo": "La sorpresa: Xbox One",
+     "fuente": "Xbox Wire, 10 de noviembre de 2026",
+     "props": {
+      "pregunta": "¿En Xbox One?",
+      "icono": "nube",
+      "sello": "SÍ, POR LA NUBE",
+      "tono": "ok",
+      "detalle": "Hay que comprar el juego. Gráficos como en Series S.",
+      "golpe": 1
+     },
+     "lineas": [
+      {
+       "start": 1311,
+       "end": 1385,
+       "text": "¿Y en Xbox One? Aquí está la sorpresa."
+      },
+      {
+       "start": 1392,
+       "end": 1585,
+       "text": "Sí, pero por la nube. Xbox ha confirmado que se podrá jugar desde el primer día con su servicio de juego en la nube."
+      },
+      {
+       "start": 1592,
+       "end": 1729,
+       "text": "Eso sí: hay que comprar el juego, y se ve con los ajustes gráficos de Series S."
+      }
+     ],
+     "start": 1301,
+     "dur": 437,
+     "beats": [
+      10,
+      91,
+      291
+     ]
+    },
+    {
+     "tipo": "dato",
+     "capitulo": "A cuántos FPS va",
+     "fuente": "Rockstar Games, vía GameSpot y VGC",
+     "props": {
+      "antetitulo": "RENDIMIENTO EN CONSOLA",
+      "valor": "30",
+      "unidad": "FPS",
+      "texto": "es el objetivo en todas las consolas",
+      "nota": "PS5 Pro mejora la imagen (PSSR y sombras con trazado de rayos), no la fluidez",
+      "golpe": 0
+     },
+     "lineas": [
+      {
+       "start": 1749,
+       "end": 1934,
+       "text": "Último dato: Rockstar ha confirmado que el objetivo son 30 FPS en todas las consolas."
+      },
+      {
+       "start": 1941,
+       "end": 2043,
+       "text": "En PS5 Pro mejora la imagen, pero no la fluidez."
+      }
+     ],
+     "start": 1738,
+     "dur": 314,
+     "beats": [
+      11,
+      203
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "props": {
+      "siguiente": "¿GTA 6 está en español?"
+     },
+     "lineas": [
+      {
+       "start": 2063,
+       "end": 2153,
+       "text": "Si algo de esto cambia, lo actualizo en el comentario fijado."
+      },
+      {
+       "start": 2160,
+       "end": 2240,
+       "text": "Suscríbete y no te pierdas nada de GTA 6."
+      }
+     ],
+     "start": 2052,
+     "dur": 236,
+     "beats": [
+      11,
+      108
+     ]
+    }
+   ],
+   "subtitulos": [
+    {
+     "start": 9,
+     "end": 67,
+     "text": "¿Se puede jugar a GTA 6 en PC?"
+    },
+    {
+     "start": 67,
+     "end": 130,
+     "text": "¿En PS4? ¿En Xbox One?"
+    },
+    {
+     "start": 137,
+     "end": 177,
+     "text": "Una de las tres respuestas te"
+    },
+    {
+     "start": 177,
+     "end": 204,
+     "text": "va a sorprender."
+    },
+    {
+     "start": 224,
+     "end": 280,
+     "text": "De lanzamiento, GTA 6 sale solo en"
+    },
+    {
+     "start": 280,
+     "end": 323,
+     "text": "dos familias de consolas."
+    },
+    {
+     "start": 331,
+     "end": 413,
+     "text": "PlayStation 5, con mejoras en PS5 Pro."
+    },
+    {
+     "start": 421,
+     "end": 489,
+     "text": "Y en las dos Xbox Series:"
+    },
+    {
+     "start": 489,
+     "end": 517,
+     "text": "la X y la S."
+    },
+    {
+     "start": 537,
+     "end": 556,
+     "text": "¿Y en PC?"
+    },
+    {
+     "start": 564,
+     "end": 597,
+     "text": "No está anunciado."
+    },
+    {
+     "start": 597,
+     "end": 637,
+     "text": "Rockstar no ha confirmado ni"
+    },
+    {
+     "start": 637,
+     "end": 669,
+     "text": "versión ni fecha."
+    },
+    {
+     "start": 676,
+     "end": 731,
+     "text": "Y como no hay requisitos oficiales,"
+    },
+    {
+     "start": 731,
+     "end": 794,
+     "text": "cualquier lista de requisitos o descarga"
+    },
+    {
+     "start": 794,
+     "end": 845,
+     "text": "para PC que veas hoy es falsa."
+    },
+    {
+     "start": 865,
+     "end": 907,
+     "text": "Como referencia:"
+    },
+    {
+     "start": 907,
+     "end": 998,
+     "text": "a PC, GTA 5 tardó 19 meses en llegar."
+    },
+    {
+     "start": 1005,
+     "end": 1065,
+     "text": "Red Dead Redemption 2, unos 12."
+    },
+    {
+     "start": 1073,
+     "end": 1121,
+     "text": "Para GTA 6, de momento,"
+    },
+    {
+     "start": 1121,
+     "end": 1150,
+     "text": "no hay fecha."
+    },
+    {
+     "start": 1169,
+     "end": 1195,
+     "text": "¿En PS4?"
+    },
+    {
+     "start": 1203,
+     "end": 1246,
+     "text": "No. Y tampoco hay versión"
+    },
+    {
+     "start": 1246,
+     "end": 1292,
+     "text": "anunciada para Switch 2."
+    },
+    {
+     "start": 1311,
+     "end": 1343,
+     "text": "¿Y en Xbox One?"
+    },
+    {
+     "start": 1343,
+     "end": 1385,
+     "text": "Aquí está la sorpresa."
+    },
+    {
+     "start": 1392,
+     "end": 1431,
+     "text": "Sí, pero por la nube."
+    },
+    {
+     "start": 1431,
+     "end": 1495,
+     "text": "Xbox ha confirmado que se podrá jugar"
+    },
+    {
+     "start": 1495,
+     "end": 1534,
+     "text": "desde el primer día con su"
+    },
+    {
+     "start": 1534,
+     "end": 1585,
+     "text": "servicio de juego en la nube."
+    },
+    {
+     "start": 1592,
+     "end": 1653,
+     "text": "Eso sí: hay que comprar el juego,"
+    },
+    {
+     "start": 1653,
+     "end": 1688,
+     "text": "y se ve con los ajustes"
+    },
+    {
+     "start": 1688,
+     "end": 1729,
+     "text": "gráficos de Series S."
+    },
+    {
+     "start": 1749,
+     "end": 1777,
+     "text": "Último dato:"
+    },
+    {
+     "start": 1777,
+     "end": 1846,
+     "text": "Rockstar ha confirmado que el objetivo son"
+    },
+    {
+     "start": 1846,
+     "end": 1934,
+     "text": "30 FPS en todas las consolas."
+    },
+    {
+     "start": 1941,
+     "end": 2004,
+     "text": "En PS5 Pro mejora la imagen,"
+    },
+    {
+     "start": 2004,
+     "end": 2043,
+     "text": "pero no la fluidez."
+    },
+    {
+     "start": 2063,
+     "end": 2095,
+     "text": "Si algo de esto cambia,"
+    },
+    {
+     "start": 2095,
+     "end": 2153,
+     "text": "lo actualizo en el comentario fijado."
+    },
+    {
+     "start": 2160,
+     "end": 2205,
+     "text": "Suscríbete y no te pierdas"
+    },
+    {
+     "start": 2205,
+     "end": 2240,
+     "text": "nada de GTA 6."
+    }
+   ]
+  },
+  {
+   "id": "04",
+   "slug": "gta-6-esta-en-espanol",
+   "titulo": "¿GTA 6 está en español? Idiomas, doblaje y subtítulos",
+   "publicar": "Miércoles 18",
+   "busquedas": [
+    "gta 6 español",
+    "gta 6 doblaje español",
+    "gta 6 idiomas",
+    "gta 6 subtítulos español",
+    "gta 6 español latino"
+   ],
+   "miniatura": {
+    "etiqueta": "GTA 6 · IDIOMAS",
+    "lineas": [
+     "¿ESTÁ EN",
+     "ESPAÑOL?"
+    ],
+    "acento": "ESPAÑOL",
+    "sello": "DOBLAJE: NO",
+    "tono": "no"
+   },
+   "descripcion": "¿GTA 6 viene doblado al español? ¿Hay español latino? Te cuento en qué idiomas llega el juego, qué está en español y qué no, y qué hacer si te aparece en inglés.",
+   "etiquetas": [
+    "gta 6",
+    "gta vi",
+    "gta 6 español",
+    "gta 6 doblaje",
+    "gta 6 idiomas",
+    "gta 6 subtítulos",
+    "gta 6 español latino",
+    "gta 6 castellano",
+    "grand theft auto 6"
+   ],
+   "fuentes": [
+    {
+     "texto": "Rockstar Games — Ficha de compra de GTA VI (idiomas disponibles)",
+     "url": "https://store.rockstargames.com/game/buy-gta-vi"
+    },
+    {
+     "texto": "Vandal — GTA 6 llegará sin doblaje al español y solo con voces en inglés",
+     "url": "https://vandal.elespanol.com/noticia/1350791241/sin-doblaje-espanol-gta-6-confirma-que-mantiene-la-tradicion-y-solo-llegara-con-voces-en-ingles/"
+    },
+    {
+     "texto": "PlayStation — Soporte de GTA VI (idiomas del juego)",
+     "url": "https://www.playstation.com/en-us/support/games/gta-vi-support/"
+    },
+    {
+     "texto": "Rockstar Games — La música de GTA VI: emisoras de radio",
+     "url": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+    }
+   ],
+   "fps": 30,
+   "frames": 1566,
+   "audio": "audio/04.m4a",
+   "escenas": [
+    {
+     "tipo": "gancho",
+     "capitulo": "¿Viene doblado?",
+     "props": {
+      "etiqueta": "IDIOMAS",
+      "lineas": [
+       "¿GTA 6 ESTÁ",
+       "EN ESPAÑOL?"
+      ],
+      "acento": [
+       "ESPAÑOL"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 9,
+       "end": 64,
+       "text": "¿Viene GTA 6 doblado al español?"
+      },
+      {
+       "start": 71,
+       "end": 190,
+       "text": "La respuesta corta es no. Pero no vas a tener ningún problema para entenderlo."
+      }
+     ],
+     "start": 0,
+     "dur": 199,
+     "beats": [
+      9,
+      71
+     ]
+    },
+    {
+     "tipo": "dato",
+     "capitulo": "13 idiomas",
+     "fuente": "Tiendas oficiales de Rockstar y Xbox",
+     "props": {
+      "antetitulo": "IDIOMAS DISPONIBLES",
+      "valor": "13",
+      "texto": "idiomas desde el primer día",
+      "nota": "Incluye español de España y español de México",
+      "golpe": 0
+     },
+     "lineas": [
+      {
+       "start": 209,
+       "end": 266,
+       "text": "El juego llega en 13 idiomas."
+      },
+      {
+       "start": 273,
+       "end": 398,
+       "text": "Y entre ellos hay dos variantes de español: el de España y el de México."
+      }
+     ],
+     "start": 199,
+     "dur": 208,
+     "beats": [
+      10,
+      74
+     ]
+    },
+    {
+     "tipo": "lista",
+     "capitulo": "Qué está en español",
+     "fuente": "Ficha oficial en Microsoft Store",
+     "props": {
+      "titulo": "Cómo llega el español",
+      "items": [
+       {
+        "icono": "voz",
+        "texto": "Voces",
+        "detalle": "No hay doblaje a ningún otro idioma",
+        "tono": "no",
+        "estado": "INGLÉS"
+       },
+       {
+        "icono": "subtitulos",
+        "texto": "Textos y subtítulos",
+        "detalle": "Español de España y español de México",
+        "tono": "ok",
+        "estado": "ESPAÑOL"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 417,
+       "end": 468,
+       "text": "Las voces están solo en inglés."
+      },
+      {
+       "start": 475,
+       "end": 541,
+       "text": "Los textos y los subtítulos, en español."
+      }
+     ],
+     "start": 407,
+     "dur": 143,
+     "beats": [
+      10,
+      68
+     ]
+    },
+    {
+     "tipo": "nota",
+     "capitulo": "La tradición de Rockstar",
+     "props": {
+      "icono": "libro",
+      "titulo": "Es la tradición de la saga",
+      "cuerpo": "Ningún GTA se ha doblado al español. Red Dead Redemption 2, tampoco."
+     },
+     "lineas": [
+      {
+       "start": 560,
+       "end": 639,
+       "text": "No es una novedad: es la tradición de Rockstar."
+      },
+      {
+       "start": 646,
+       "end": 774,
+       "text": "Ningún GTA se ha doblado al español, y Red Dead Redemption 2 tampoco."
+      }
+     ],
+     "start": 550,
+     "dur": 233,
+     "beats": [
+      10,
+      96
+     ]
+    },
+    {
+     "tipo": "nota",
+     "capitulo": "Si te sale en inglés",
+     "props": {
+      "icono": "mundo",
+      "titulo": "¿Te sale en inglés?",
+      "cuerpo": "Revisa primero el idioma del sistema de tu consola.",
+      "tono": "warn"
+     },
+     "lineas": [
+      {
+       "start": 793,
+       "end": 935,
+       "text": "Un consejo: si el juego te aparece en inglés, revisa primero el idioma de la consola."
+      },
+      {
+       "start": 942,
+       "end": 1042,
+       "text": "En juegos anteriores de Rockstar, los textos seguían ese ajuste."
+      }
+     ],
+     "start": 783,
+     "dur": 268,
+     "beats": [
+      10,
+      159
+     ]
+    },
+    {
+     "tipo": "nota",
+     "capitulo": "Lo que sí suena en español",
+     "fuente": "Rockstar Games",
+     "props": {
+      "icono": "musica",
+      "titulo": "Lo que sí suena en español",
+      "cuerpo": "Cocoteo FM: bachata, merengue, dembow y reguetón.",
+      "tono": "ok"
+     },
+     "lineas": [
+      {
+       "start": 1061,
+       "end": 1133,
+       "text": "Y lo que sí vas a oír en español es la música."
+      },
+      {
+       "start": 1140,
+       "end": 1303,
+       "text": "Rockstar ha presentado Cocoteo FM, una emisora latina con bachata, merengue, dembow y reguetón."
+      }
+     ],
+     "start": 1051,
+     "dur": 261,
+     "beats": [
+      10,
+      89
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "props": {
+      "siguiente": "El mapa: las 6 zonas de Leonida"
+     },
+     "lineas": [
+      {
+       "start": 1322,
+       "end": 1425,
+       "text": "En resumen: voces en inglés, y todo lo demás en español."
+      },
+      {
+       "start": 1432,
+       "end": 1518,
+       "text": "Suscríbete para más datos confirmados de GTA 6."
+      }
+     ],
+     "start": 1312,
+     "dur": 254,
+     "beats": [
+      10,
+      120
+     ]
+    }
+   ],
+   "subtitulos": [
+    {
+     "start": 9,
+     "end": 64,
+     "text": "¿Viene GTA 6 doblado al español?"
+    },
+    {
+     "start": 71,
+     "end": 111,
+     "text": "La respuesta corta es no."
+    },
+    {
+     "start": 111,
+     "end": 146,
+     "text": "Pero no vas a tener ningún"
+    },
+    {
+     "start": 146,
+     "end": 190,
+     "text": "problema para entenderlo."
+    },
+    {
+     "start": 209,
+     "end": 266,
+     "text": "El juego llega en 13 idiomas."
+    },
+    {
+     "start": 273,
+     "end": 306,
+     "text": "Y entre ellos hay dos"
+    },
+    {
+     "start": 306,
+     "end": 349,
+     "text": "variantes de español:"
+    },
+    {
+     "start": 349,
+     "end": 398,
+     "text": "el de España y el de México."
+    },
+    {
+     "start": 417,
+     "end": 468,
+     "text": "Las voces están solo en inglés."
+    },
+    {
+     "start": 475,
+     "end": 518,
+     "text": "Los textos y los subtítulos,"
+    },
+    {
+     "start": 518,
+     "end": 541,
+     "text": "en español."
+    },
+    {
+     "start": 560,
+     "end": 592,
+     "text": "No es una novedad:"
+    },
+    {
+     "start": 592,
+     "end": 639,
+     "text": "es la tradición de Rockstar."
+    },
+    {
+     "start": 646,
+     "end": 710,
+     "text": "Ningún GTA se ha doblado al español,"
+    },
+    {
+     "start": 710,
+     "end": 774,
+     "text": "y Red Dead Redemption 2 tampoco."
+    },
+    {
+     "start": 793,
+     "end": 837,
+     "text": "Un consejo: si el juego te"
+    },
+    {
+     "start": 837,
+     "end": 868,
+     "text": "aparece en inglés,"
+    },
+    {
+     "start": 868,
+     "end": 935,
+     "text": "revisa primero el idioma de la consola."
+    },
+    {
+     "start": 942,
+     "end": 992,
+     "text": "En juegos anteriores de Rockstar,"
+    },
+    {
+     "start": 992,
+     "end": 1042,
+     "text": "los textos seguían ese ajuste."
+    },
+    {
+     "start": 1061,
+     "end": 1093,
+     "text": "Y lo que sí vas a oír en"
+    },
+    {
+     "start": 1093,
+     "end": 1133,
+     "text": "español es la música."
+    },
+    {
+     "start": 1140,
+     "end": 1201,
+     "text": "Rockstar ha presentado Cocoteo FM,"
+    },
+    {
+     "start": 1201,
+     "end": 1251,
+     "text": "una emisora latina con bachata,"
+    },
+    {
+     "start": 1251,
+     "end": 1303,
+     "text": "merengue, dembow y reguetón."
+    },
+    {
+     "start": 1322,
+     "end": 1377,
+     "text": "En resumen: voces en inglés,"
+    },
+    {
+     "start": 1377,
+     "end": 1425,
+     "text": "y todo lo demás en español."
+    },
+    {
+     "start": 1432,
+     "end": 1473,
+     "text": "Suscríbete para más datos"
+    },
+    {
+     "start": 1473,
+     "end": 1518,
+     "text": "confirmados de GTA 6."
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "slug": "gta-6-mapa-zonas-de-leonida",
+   "titulo": "El mapa de GTA 6: las 6 zonas de Leonida explicadas",
+   "publicar": "Jueves 19 (ese día Rockstar publica el mapa oficial: enlázalo en el comentario fijado)",
+   "busquedas": [
+    "gta 6 mapa",
+    "gta 6 mapa completo",
+    "gta 6 leonida",
+    "gta 6 vice city mapa",
+    "gta 6 zonas"
+   ],
+   "miniatura": {
+    "etiqueta": "GTA 6 · MAPA",
+    "lineas": [
+     "LAS 6",
+     "ZONAS"
+    ],
+    "acento": "6",
+    "sello": "LEONIDA",
+    "icono": "mapa",
+    "tono": "info"
+   },
+   "descripcion": "El mapa de GTA 6 no es solo Vice City. Repaso las seis zonas del estado de Leonida que Rockstar ha presentado de forma oficial, qué hay en cada una y cuándo sale el mapa completo.",
+   "etiquetas": [
+    "gta 6",
+    "gta vi",
+    "gta 6 mapa",
+    "gta 6 leonida",
+    "gta 6 vice city",
+    "leonida keys",
+    "grassrivers",
+    "port gellhorn",
+    "ambrosia",
+    "mount kalaga",
+    "gta 6 zonas",
+    "grand theft auto 6"
+   ],
+   "fuentes": [
+    {
+     "texto": "Rockstar Games — «Only in Leonida»: lugares y personajes (web oficial de GTA VI)",
+     "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    },
+    {
+     "texto": "Rockstar Games — La precarga empieza el 10 de noviembre (anuncia el mapa oficial para el día 19)",
+     "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+    },
+    {
+     "texto": "Game Informer — Rockstar enseña las seis grandes zonas de GTA VI",
+     "url": "https://gameinformer.com/2025/05/06/rockstar-shows-off-six-major-areas-of-vice-city-in-grand-theft-auto-vi"
+    }
+   ],
+   "fps": 30,
+   "frames": 2612,
+   "audio": "audio/05.m4a",
+   "escenas": [
+    {
+     "tipo": "gancho",
+     "capitulo": "No es solo Vice City",
+     "props": {
+      "etiqueta": "EL MAPA DE GTA 6",
+      "lineas": [
+       "NO ES SOLO",
+       "VICE CITY"
+      ],
+      "acento": [
+       "VICE",
+       "CITY"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 9,
+       "end": 77,
+       "text": "El mapa de GTA 6 no es solo Vice City."
+      },
+      {
+       "start": 84,
+       "end": 208,
+       "text": "Rockstar ha presentado seis zonas, y la última no tiene nada que ver con playas."
+      }
+     ],
+     "start": 0,
+     "dur": 217,
+     "beats": [
+      9,
+      84
+     ]
+    },
+    {
+     "tipo": "zona",
+     "capitulo": "El estado de Leonida",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "antetitulo": "El escenario",
+      "nombre": "Leonida",
+      "lema": "El estado ficticio de GTA 6",
+      "desde": 0,
+      "puntos": [
+       "Inspirado en Florida",
+       "Seis zonas presentadas por Rockstar"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 228,
+       "end": 331,
+       "text": "Todo ocurre en Leonida, un estado ficticio inspirado en Florida."
+      },
+      {
+       "start": 338,
+       "end": 431,
+       "text": "Estas son las seis zonas que Rockstar ha enseñado de forma oficial."
+      }
+     ],
+     "start": 217,
+     "dur": 223,
+     "beats": [
+      11,
+      121
+     ]
+    },
+    {
+     "tipo": "zona",
+     "capitulo": "Vice City",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "zona": "vice",
+      "nombre": "Vice City",
+      "lema": "La gran ciudad",
+      "puntos": [
+       "Hoteles art déco y playas en Ocean Beach",
+       "El barrio de Little Cuba",
+       "Un enorme puerto de cruceros"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 450,
+       "end": 504,
+       "text": "Uno: Vice City, la gran ciudad."
+      },
+      {
+       "start": 511,
+       "end": 575,
+       "text": "Hoteles art déco y playas en Ocean Beach."
+      },
+      {
+       "start": 583,
+       "end": 621,
+       "text": "El barrio de Little Cuba."
+      },
+      {
+       "start": 628,
+       "end": 677,
+       "text": "Y un enorme puerto de cruceros."
+      }
+     ],
+     "start": 440,
+     "dur": 246,
+     "beats": [
+      10,
+      71,
+      143,
+      188
+     ]
+    },
+    {
+     "tipo": "zona",
+     "capitulo": "Leonida Keys",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "zona": "keys",
+      "nombre": "Leonida Keys",
+      "lema": "El archipiélago tropical",
+      "puntos": [
+       "Islas, barcos y bares de playa",
+       "Aguas tan bonitas como peligrosas"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 697,
+       "end": 786,
+       "text": "Dos: Leonida Keys, el archipiélago tropical."
+      },
+      {
+       "start": 793,
+       "end": 842,
+       "text": "Islas, barcos y bares de playa."
+      },
+      {
+       "start": 850,
+       "end": 920,
+       "text": "Y unas aguas tan bonitas como peligrosas."
+      }
+     ],
+     "start": 686,
+     "dur": 243,
+     "beats": [
+      11,
+      107,
+      164
+     ]
+    },
+    {
+     "tipo": "zona",
+     "capitulo": "Grassrivers",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "zona": "grass",
+      "nombre": "Grassrivers",
+      "lema": "Los pantanos",
+      "puntos": [
+       "Manglares, hidrodeslizadores y caimanes",
+       "Y el caimán no es lo más peligroso"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 940,
+       "end": 1005,
+       "text": "Tres: Grassrivers, los pantanos."
+      },
+      {
+       "start": 1012,
+       "end": 1081,
+       "text": "Manglares, hidrodeslizadores y caimanes."
+      },
+      {
+       "start": 1089,
+       "end": 1208,
+       "text": "Aunque Rockstar avisa: el caimán no es lo más peligroso que vive ahí."
+      }
+     ],
+     "start": 929,
+     "dur": 288,
+     "beats": [
+      11,
+      83,
+      160
+     ]
+    },
+    {
+     "tipo": "zona",
+     "capitulo": "Port Gellhorn",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "zona": "port",
+      "nombre": "Port Gellhorn",
+      "lema": "La costa olvidada",
+      "puntos": [
+       "Moteles baratos y atracciones cerradas",
+       "Centros comerciales vacíos"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1228,
+       "end": 1297,
+       "text": "Cuatro: Port Gellhorn, la costa olvidada."
+      },
+      {
+       "start": 1304,
+       "end": 1373,
+       "text": "Moteles baratos y atracciones cerradas."
+      },
+      {
+       "start": 1380,
+       "end": 1464,
+       "text": "Y centros comerciales vacíos, muy lejos del turismo."
+      }
+     ],
+     "start": 1217,
+     "dur": 256,
+     "beats": [
+      11,
+      87,
+      163
+     ]
+    },
+    {
+     "tipo": "zona",
+     "capitulo": "Ambrosia",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "zona": "ambrosia",
+      "nombre": "Ambrosia",
+      "lema": "El corazón industrial",
+      "puntos": [
+       "La refinería de azúcar Allied Crystal",
+       "Y una banda de moteros"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1483,
+       "end": 1557,
+       "text": "Cinco: Ambrosia, el corazón industrial."
+      },
+      {
+       "start": 1564,
+       "end": 1659,
+       "text": "Aquí manda una refinería de azúcar: Allied Crystal."
+      },
+      {
+       "start": 1666,
+       "end": 1715,
+       "text": "Y también una banda de moteros."
+      }
+     ],
+     "start": 1473,
+     "dur": 251,
+     "beats": [
+      10,
+      91,
+      193
+     ]
+    },
+    {
+     "tipo": "zona",
+     "capitulo": "Mount Kalaga",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "zona": "kalaga",
+      "nombre": "Mount Kalaga",
+      "lema": "El parque nacional",
+      "puntos": [
+       "Caza, pesca y rutas todoterreno",
+       "Gente que vive al margen, en el bosque"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1734,
+       "end": 1845,
+       "text": "Y seis: el parque nacional de Mount Kalaga, cerca de la frontera norte."
+      },
+      {
+       "start": 1853,
+       "end": 1911,
+       "text": "Caza, pesca y rutas todoterreno."
+      },
+      {
+       "start": 1919,
+       "end": 2010,
+       "text": "Y gente que vive al margen de todo, escondida en el bosque."
+      }
+     ],
+     "start": 1724,
+     "dur": 295,
+     "beats": [
+      10,
+      129,
+      195
+     ]
+    },
+    {
+     "tipo": "nota",
+     "capitulo": "¿Y el mapa completo?",
+     "fuente": "Rockstar Newswire",
+     "props": {
+      "icono": "mapa",
+      "titulo": "¿Y el mapa completo?",
+      "desde": 0,
+      "puntos": [
+       "Mapa oficial: 19 de noviembre, gratis en la web de Rockstar",
+       "Los «mapas completos» anteriores son de fans"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 2029,
+       "end": 2260,
+       "text": "¿Y el mapa completo? Rockstar ha anunciado que publicará el mapa oficial de Leonida el 19 de noviembre, como descarga gratuita en su web."
+      },
+      {
+       "start": 2267,
+       "end": 2385,
+       "text": "Los mapas completos que hayas visto antes son reconstrucciones hechas por fans."
+      }
+     ],
+     "start": 2019,
+     "dur": 375,
+     "beats": [
+      10,
+      248
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "props": {
+      "siguiente": "Jason y Lucia: quiénes son"
+     },
+     "lineas": [
+      {
+       "start": 2405,
+       "end": 2486,
+       "text": "¿Por qué zona vas a empezar? Te leo en los comentarios."
+      },
+      {
+       "start": 2493,
+       "end": 2564,
+       "text": "Suscríbete para más GTA 6 sin rumores."
+      }
+     ],
+     "start": 2394,
+     "dur": 218,
+     "beats": [
+      11,
+      99
+     ]
+    }
+   ],
+   "subtitulos": [
+    {
+     "start": 9,
+     "end": 77,
+     "text": "El mapa de GTA 6 no es solo Vice City."
+    },
+    {
+     "start": 84,
+     "end": 138,
+     "text": "Rockstar ha presentado seis zonas,"
+    },
+    {
+     "start": 138,
+     "end": 174,
+     "text": "y la última no tiene nada"
+    },
+    {
+     "start": 174,
+     "end": 208,
+     "text": "que ver con playas."
+    },
+    {
+     "start": 228,
+     "end": 264,
+     "text": "Todo ocurre en Leonida,"
+    },
+    {
+     "start": 264,
+     "end": 331,
+     "text": "un estado ficticio inspirado en Florida."
+    },
+    {
+     "start": 338,
+     "end": 386,
+     "text": "Estas son las seis zonas que Rockstar"
+    },
+    {
+     "start": 386,
+     "end": 431,
+     "text": "ha enseñado de forma oficial."
+    },
+    {
+     "start": 450,
+     "end": 504,
+     "text": "Uno: Vice City, la gran ciudad."
+    },
+    {
+     "start": 511,
+     "end": 548,
+     "text": "Hoteles art déco y playas"
+    },
+    {
+     "start": 548,
+     "end": 575,
+     "text": "en Ocean Beach."
+    },
+    {
+     "start": 583,
+     "end": 621,
+     "text": "El barrio de Little Cuba."
+    },
+    {
+     "start": 628,
+     "end": 677,
+     "text": "Y un enorme puerto de cruceros."
+    },
+    {
+     "start": 697,
+     "end": 738,
+     "text": "Dos: Leonida Keys, el"
+    },
+    {
+     "start": 738,
+     "end": 786,
+     "text": "archipiélago tropical."
+    },
+    {
+     "start": 793,
+     "end": 842,
+     "text": "Islas, barcos y bares de playa."
+    },
+    {
+     "start": 850,
+     "end": 887,
+     "text": "Y unas aguas tan bonitas"
+    },
+    {
+     "start": 887,
+     "end": 920,
+     "text": "como peligrosas."
+    },
+    {
+     "start": 940,
+     "end": 1005,
+     "text": "Tres: Grassrivers, los pantanos."
+    },
+    {
+     "start": 1012,
+     "end": 1081,
+     "text": "Manglares, hidrodeslizadores y caimanes."
+    },
+    {
+     "start": 1089,
+     "end": 1131,
+     "text": "Aunque Rockstar avisa:"
+    },
+    {
+     "start": 1131,
+     "end": 1164,
+     "text": "el caimán no es lo más"
+    },
+    {
+     "start": 1164,
+     "end": 1208,
+     "text": "peligroso que vive ahí."
+    },
+    {
+     "start": 1228,
+     "end": 1266,
+     "text": "Cuatro: Port Gellhorn,"
+    },
+    {
+     "start": 1266,
+     "end": 1297,
+     "text": "la costa olvidada."
+    },
+    {
+     "start": 1304,
+     "end": 1373,
+     "text": "Moteles baratos y atracciones cerradas."
+    },
+    {
+     "start": 1380,
+     "end": 1426,
+     "text": "Y centros comerciales vacíos,"
+    },
+    {
+     "start": 1426,
+     "end": 1464,
+     "text": "muy lejos del turismo."
+    },
+    {
+     "start": 1483,
+     "end": 1557,
+     "text": "Cinco: Ambrosia, el corazón industrial."
+    },
+    {
+     "start": 1564,
+     "end": 1628,
+     "text": "Aquí manda una refinería de azúcar:"
+    },
+    {
+     "start": 1628,
+     "end": 1659,
+     "text": "Allied Crystal."
+    },
+    {
+     "start": 1666,
+     "end": 1715,
+     "text": "Y también una banda de moteros."
+    },
+    {
+     "start": 1734,
+     "end": 1776,
+     "text": "Y seis: el parque nacional"
+    },
+    {
+     "start": 1776,
+     "end": 1802,
+     "text": "de Mount Kalaga,"
+    },
+    {
+     "start": 1802,
+     "end": 1845,
+     "text": "cerca de la frontera norte."
+    },
+    {
+     "start": 1853,
+     "end": 1911,
+     "text": "Caza, pesca y rutas todoterreno."
+    },
+    {
+     "start": 1919,
+     "end": 1969,
+     "text": "Y gente que vive al margen de todo,"
+    },
+    {
+     "start": 1969,
+     "end": 2010,
+     "text": "escondida en el bosque."
+    },
+    {
+     "start": 2029,
+     "end": 2066,
+     "text": "¿Y el mapa completo?"
+    },
+    {
+     "start": 2066,
+     "end": 2106,
+     "text": "Rockstar ha anunciado que"
+    },
+    {
+     "start": 2106,
+     "end": 2153,
+     "text": "publicará el mapa oficial de"
+    },
+    {
+     "start": 2153,
+     "end": 2200,
+     "text": "Leonida el 19 de noviembre,"
+    },
+    {
+     "start": 2200,
+     "end": 2260,
+     "text": "como descarga gratuita en su web."
+    },
+    {
+     "start": 2267,
+     "end": 2330,
+     "text": "Los mapas completos que hayas visto antes son"
+    },
+    {
+     "start": 2330,
+     "end": 2385,
+     "text": "reconstrucciones hechas por fans."
+    },
+    {
+     "start": 2405,
+     "end": 2445,
+     "text": "¿Por qué zona vas a empezar?"
+    },
+    {
+     "start": 2445,
+     "end": 2486,
+     "text": "Te leo en los comentarios."
+    },
+    {
+     "start": 2493,
+     "end": 2564,
+     "text": "Suscríbete para más GTA 6 sin rumores."
+    }
+   ]
+  },
+  {
+   "id": "06",
+   "slug": "gta-6-jason-y-lucia-protagonistas",
+   "titulo": "Jason y Lucia: quiénes son los protagonistas de GTA 6 (sin spoilers)",
+   "publicar": "Viernes 20",
+   "busquedas": [
+    "gta 6 protagonistas",
+    "gta 6 jason y lucia",
+    "gta 6 historia",
+    "gta 6 lucia",
+    "gta 6 de qué trata"
+   ],
+   "miniatura": {
+    "etiqueta": "GTA 6 · HISTORIA",
+    "lineas": [
+     "JASON",
+     "Y LUCIA"
+    ],
+    "acento": "LUCIA",
+    "sello": "SIN SPOILERS",
+    "tono": "ok"
+   },
+   "descripcion": "GTA 6 tiene dos protagonistas: Jason Duval y Lucia Caminos. Te cuento quiénes son, de dónde vienen, cómo arranca la historia y qué enseñó Rockstar en su gameplay oficial. Todo sin spoilers.",
+   "etiquetas": [
+    "gta 6",
+    "gta vi",
+    "gta 6 protagonistas",
+    "jason duval",
+    "lucia caminos",
+    "gta 6 historia",
+    "gta 6 jason y lucia",
+    "gta 6 gameplay",
+    "gta 6 sin spoilers",
+    "grand theft auto 6"
+   ],
+   "fuentes": [
+    {
+     "texto": "Rockstar Games — «Only in Leonida»: Jason Duval y Lucia Caminos (web oficial de GTA VI)",
+     "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    },
+    {
+     "texto": "Rockstar Games — «An Extended Look», el gameplay oficial",
+     "url": "https://www.rockstargames.com/VI/an-extended-look"
+    },
+    {
+     "texto": "GamesRadar — El sistema de búsqueda de GTA 6 llega a 6 estrellas",
+     "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-system-goes-up-to-6-stars-and-lets-police-track-your-face-your-clothes-and-your-car/"
+    },
+    {
+     "texto": "VGC — Todo lo que se enseñó en el especial de GTA 6 en Netflix",
+     "url": "https://www.videogameschronicle.com/news/everything-shown-at-the-grand-theft-auto-6-netflix-special/"
+    }
+   ],
+   "fps": 30,
+   "frames": 1976,
+   "audio": "audio/06.m4a",
+   "escenas": [
+    {
+     "tipo": "gancho",
+     "capitulo": "Dos protagonistas",
+     "props": {
+      "etiqueta": "LOS PROTAGONISTAS",
+      "lineas": [
+       "JASON",
+       "Y LUCIA"
+      ],
+      "acento": [
+       "LUCIA"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 9,
+       "end": 120,
+       "text": "En GTA 6 hay dos protagonistas, y puedes cambiar de uno a otro."
+      },
+      {
+       "start": 127,
+       "end": 215,
+       "text": "Esto es lo que Rockstar ha contado de Jason y Lucia, sin spoilers."
+      }
+     ],
+     "start": 0,
+     "dur": 224,
+     "beats": [
+      9,
+      127
+     ]
+    },
+    {
+     "tipo": "personaje",
+     "capitulo": "Jason Duval",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "nombre": "Jason Duval",
+      "rol": "Protagonista",
+      "rasgos": [
+       "Exmilitar",
+       "Vive en los Cayos"
+      ],
+      "color": "#27e6c8",
+      "numero": 1,
+      "total": 2,
+      "puntos": [
+       "Creció entre delincuentes de poca monta",
+       "Pasó por el Ejército para dejar atrás esa vida",
+       "Trabaja para traficantes en los Cayos"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 234,
+       "end": 325,
+       "text": "Jason Duval creció rodeado de delincuentes de poca monta."
+      },
+      {
+       "start": 332,
+       "end": 425,
+       "text": "Pasó por el Ejército para intentar dejar atrás esa vida."
+      },
+      {
+       "start": 432,
+       "end": 580,
+       "text": "Y ahora trabaja para traficantes en los Cayos. Quiere una vida fácil, pero todo se le complica."
+      }
+     ],
+     "start": 224,
+     "dur": 365,
+     "beats": [
+      10,
+      108,
+      208
+     ]
+    },
+    {
+     "tipo": "personaje",
+     "capitulo": "Lucia Caminos",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "nombre": "Lucia Caminos",
+      "rol": "Protagonista",
+      "rasgos": [
+       "Luchadora",
+       "Recién salida de prisión"
+      ],
+      "color": "#ff3d81",
+      "numero": 2,
+      "total": 2,
+      "puntos": [
+       "Su padre le enseñó a pelear desde niña",
+       "Defender a su familia la llevó a prisión",
+       "Quiere la vida con la que sueña su madre"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 599,
+       "end": 710,
+       "text": "Lucia Caminos aprendió a pelear de niña: le enseñó su padre."
+      },
+      {
+       "start": 717,
+       "end": 808,
+       "text": "Defender a su familia la llevó a la penitenciaría de Leonida."
+      },
+      {
+       "start": 815,
+       "end": 970,
+       "text": "Ahora está libre, y quiere la buena vida con la que su madre sueña desde que vivían en Liberty City."
+      }
+     ],
+     "start": 589,
+     "dur": 390,
+     "beats": [
+      10,
+      128,
+      226
+     ]
+    },
+    {
+     "tipo": "nota",
+     "capitulo": "Cómo empieza la historia",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "icono": "alerta",
+      "titulo": "Un golpe fácil sale mal",
+      "cuerpo": "Y acaban en medio de una conspiración que recorre todo el estado.",
+      "tono": "warn"
+     },
+     "lineas": [
+      {
+       "start": 989,
+       "end": 1065,
+       "text": "La historia arranca cuando un golpe fácil sale mal."
+      },
+      {
+       "start": 1072,
+       "end": 1262,
+       "text": "Los dos acaban metidos en una conspiración que recorre todo el estado, y solo pueden fiarse el uno del otro."
+      }
+     ],
+     "start": 979,
+     "dur": 292,
+     "beats": [
+      10,
+      93
+     ]
+    },
+    {
+     "tipo": "lista",
+     "capitulo": "Lo que enseñó el gameplay",
+     "fuente": "Vídeo oficial «An Extended Look»",
+     "props": {
+      "titulo": "Lo que enseñó el gameplay oficial",
+      "desde": 1,
+      "items": [
+       {
+        "icono": "grupo",
+        "texto": "Cambias entre Jason y Lucia",
+        "detalle": "Juntos, o cada uno por su lado"
+       },
+       {
+        "icono": "estrella",
+        "texto": "Búsqueda: hasta 6 estrellas",
+        "detalle": "Vuelve la sexta estrella",
+        "tono": "warn"
+       },
+       {
+        "icono": "ojo",
+        "texto": "La policía te reconoce",
+        "detalle": "Por la cara, la ropa y el coche",
+        "tono": "no"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1281,
+       "end": 1414,
+       "text": "En agosto, Rockstar enseñó el juego en un vídeo largo, y dejó varias cosas claras."
+      },
+      {
+       "start": 1422,
+       "end": 1527,
+       "text": "Puedes alternar entre Jason y Lucia, juntos o cada uno por su lado."
+      },
+      {
+       "start": 1534,
+       "end": 1613,
+       "text": "El nivel de búsqueda vuelve a llegar a 6 estrellas."
+      },
+      {
+       "start": 1620,
+       "end": 1718,
+       "text": "Y la policía puede reconocerte por la cara, la ropa y el coche."
+      }
+     ],
+     "start": 1271,
+     "dur": 456,
+     "beats": [
+      10,
+      151,
+      263,
+      349
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "props": {
+      "siguiente": "Los personajes secundarios: quién es quién"
+     },
+     "lineas": [
+      {
+       "start": 1737,
+       "end": 1817,
+       "text": "¿Con quién vas a jugar más, con Jason o con Lucia?"
+      },
+      {
+       "start": 1824,
+       "end": 1928,
+       "text": "Suscríbete, que en el siguiente vídeo te presento al resto del reparto."
+      }
+     ],
+     "start": 1727,
+     "dur": 249,
+     "beats": [
+      10,
+      97
+     ]
+    }
+   ],
+   "subtitulos": [
+    {
+     "start": 9,
+     "end": 66,
+     "text": "En GTA 6 hay dos protagonistas,"
+    },
+    {
+     "start": 66,
+     "end": 120,
+     "text": "y puedes cambiar de uno a otro."
+    },
+    {
+     "start": 127,
+     "end": 157,
+     "text": "Esto es lo que Rockstar ha"
+    },
+    {
+     "start": 157,
+     "end": 192,
+     "text": "contado de Jason y Lucia,"
+    },
+    {
+     "start": 192,
+     "end": 215,
+     "text": "sin spoilers."
+    },
+    {
+     "start": 234,
+     "end": 279,
+     "text": "Jason Duval creció rodeado de"
+    },
+    {
+     "start": 279,
+     "end": 325,
+     "text": "delincuentes de poca monta."
+    },
+    {
+     "start": 332,
+     "end": 386,
+     "text": "Pasó por el Ejército para intentar"
+    },
+    {
+     "start": 386,
+     "end": 425,
+     "text": "dejar atrás esa vida."
+    },
+    {
+     "start": 432,
+     "end": 462,
+     "text": "Y ahora trabaja para"
+    },
+    {
+     "start": 462,
+     "end": 504,
+     "text": "traficantes en los Cayos."
+    },
+    {
+     "start": 504,
+     "end": 539,
+     "text": "Quiere una vida fácil,"
+    },
+    {
+     "start": 539,
+     "end": 580,
+     "text": "pero todo se le complica."
+    },
+    {
+     "start": 599,
+     "end": 672,
+     "text": "Lucia Caminos aprendió a pelear de niña:"
+    },
+    {
+     "start": 672,
+     "end": 710,
+     "text": "le enseñó su padre."
+    },
+    {
+     "start": 717,
+     "end": 764,
+     "text": "Defender a su familia la llevó a la"
+    },
+    {
+     "start": 764,
+     "end": 808,
+     "text": "penitenciaría de Leonida."
+    },
+    {
+     "start": 815,
+     "end": 870,
+     "text": "Ahora está libre, y quiere la buena"
+    },
+    {
+     "start": 870,
+     "end": 923,
+     "text": "vida con la que su madre sueña desde"
+    },
+    {
+     "start": 923,
+     "end": 970,
+     "text": "que vivían en Liberty City."
+    },
+    {
+     "start": 989,
+     "end": 1030,
+     "text": "La historia arranca cuando un"
+    },
+    {
+     "start": 1030,
+     "end": 1065,
+     "text": "golpe fácil sale mal."
+    },
+    {
+     "start": 1072,
+     "end": 1121,
+     "text": "Los dos acaban metidos en una"
+    },
+    {
+     "start": 1121,
+     "end": 1194,
+     "text": "conspiración que recorre todo el estado,"
+    },
+    {
+     "start": 1194,
+     "end": 1262,
+     "text": "y solo pueden fiarse el uno del otro."
+    },
+    {
+     "start": 1281,
+     "end": 1327,
+     "text": "En agosto, Rockstar enseñó el"
+    },
+    {
+     "start": 1327,
+     "end": 1366,
+     "text": "juego en un vídeo largo,"
+    },
+    {
+     "start": 1366,
+     "end": 1414,
+     "text": "y dejó varias cosas claras."
+    },
+    {
+     "start": 1422,
+     "end": 1480,
+     "text": "Puedes alternar entre Jason y Lucia,"
+    },
+    {
+     "start": 1480,
+     "end": 1527,
+     "text": "juntos o cada uno por su lado."
+    },
+    {
+     "start": 1534,
+     "end": 1576,
+     "text": "El nivel de búsqueda vuelve a"
+    },
+    {
+     "start": 1576,
+     "end": 1613,
+     "text": "llegar a 6 estrellas."
+    },
+    {
+     "start": 1620,
+     "end": 1647,
+     "text": "Y la policía puede"
+    },
+    {
+     "start": 1647,
+     "end": 1686,
+     "text": "reconocerte por la cara,"
+    },
+    {
+     "start": 1686,
+     "end": 1718,
+     "text": "la ropa y el coche."
+    },
+    {
+     "start": 1737,
+     "end": 1777,
+     "text": "¿Con quién vas a jugar más,"
+    },
+    {
+     "start": 1777,
+     "end": 1817,
+     "text": "con Jason o con Lucia?"
+    },
+    {
+     "start": 1824,
+     "end": 1881,
+     "text": "Suscríbete, que en el siguiente vídeo te"
+    },
+    {
+     "start": 1881,
+     "end": 1928,
+     "text": "presento al resto del reparto."
+    }
+   ]
+  },
+  {
+   "id": "07",
+   "slug": "gta-6-personajes-confirmados",
+   "titulo": "Los personajes de GTA 6 confirmados: quién es quién en Leonida",
+   "publicar": "Sábado 21",
+   "busquedas": [
+    "gta 6 personajes",
+    "gta 6 personajes confirmados",
+    "gta 6 boobie ike",
+    "gta 6 raul bautista",
+    "gta 6 cal hampton",
+    "gta 6 real dimez"
+   ],
+   "miniatura": {
+    "etiqueta": "GTA 6 · PERSONAJES",
+    "lineas": [
+     "QUIÉN ES",
+     "QUIÉN"
+    ],
+    "acento": "QUIÉN",
+    "sello": "6 FICHAS",
+    "icono": "grupo",
+    "tono": "info"
+   },
+   "descripcion": "Un contrabandista veterano, un magnate del rap y un ladrón de bancos. Estos son los seis personajes secundarios de GTA 6 que Rockstar ha presentado de forma oficial, y qué se sabe de cada uno.",
+   "etiquetas": [
+    "gta 6",
+    "gta vi",
+    "gta 6 personajes",
+    "cal hampton",
+    "boobie ike",
+    "dre'quan priest",
+    "real dimez",
+    "raul bautista",
+    "brian heder",
+    "gta 6 reparto",
+    "grand theft auto 6"
+   ],
+   "fuentes": [
+    {
+     "texto": "Rockstar Games — «Only in Leonida»: personajes (web oficial de GTA VI)",
+     "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    }
+   ],
+   "fps": 30,
+   "frames": 2349,
+   "audio": "audio/07.m4a",
+   "escenas": [
+    {
+     "tipo": "gancho",
+     "capitulo": "El reparto",
+     "props": {
+      "etiqueta": "EL REPARTO DE GTA 6",
+      "lineas": [
+       "QUIÉN",
+       "ES QUIÉN"
+      ],
+      "acento": [
+       "QUIÉN"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 9,
+       "end": 126,
+       "text": "Un contrabandista veterano, un magnate del rap y un ladrón de bancos."
+      },
+      {
+       "start": 133,
+       "end": 229,
+       "text": "Estos son los personajes de GTA 6 que Rockstar ya ha presentado."
+      }
+     ],
+     "start": 0,
+     "dur": 238,
+     "beats": [
+      9,
+      133
+     ]
+    },
+    {
+     "tipo": "personaje",
+     "capitulo": "Cal Hampton",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "nombre": "Cal Hampton",
+      "rol": "Amigo de Jason",
+      "rasgos": [
+       "Los Cayos",
+       "Desconfiado"
+      ],
+      "color": "#27e6c8",
+      "numero": 1,
+      "total": 6,
+      "puntos": [
+       "Amigo de Jason y socio de Brian",
+       "Escucha las comunicaciones de la Guardia Costera",
+       "Donde más seguro se siente es en casa"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 248,
+       "end": 325,
+       "text": "Cal Hampton es amigo de Jason y socio de Brian."
+      },
+      {
+       "start": 333,
+       "end": 424,
+       "text": "Se pasa el día escuchando las comunicaciones de la Guardia Costera."
+      },
+      {
+       "start": 432,
+       "end": 495,
+       "text": "Y donde más seguro se siente es en casa."
+      }
+     ],
+     "start": 238,
+     "dur": 266,
+     "beats": [
+      10,
+      95,
+      194
+     ]
+    },
+    {
+     "tipo": "personaje",
+     "capitulo": "Boobie Ike",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "nombre": "Boobie Ike",
+      "rol": "Leyenda de Vice City",
+      "rasgos": [
+       "Empresario",
+       "Only Raw Records"
+      ],
+      "color": "#ff7a45",
+      "numero": 2,
+      "total": 6,
+      "puntos": [
+       "De la calle a un imperio legal",
+       "Inmobiliaria, un club y un estudio de grabación",
+       "Volcado en su sello discográfico"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 514,
+       "end": 601,
+       "text": "Luego está Boobie Ike, una leyenda local de Vice City."
+      },
+      {
+       "start": 608,
+       "end": 772,
+       "text": "Convirtió su pasado en la calle en un imperio legal: inmobiliaria, un club y un estudio de grabación."
+      },
+      {
+       "start": 779,
+       "end": 876,
+       "text": "Y está volcado en su sello, Only Raw Records, junto a Dre'Quan."
+      }
+     ],
+     "start": 504,
+     "dur": 381,
+     "beats": [
+      10,
+      104,
+      275
+     ]
+    },
+    {
+     "tipo": "personaje",
+     "capitulo": "Dre'Quan Priest",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "nombre": "Dre'Quan Priest",
+      "rol": "Productor musical",
+      "rasgos": [
+       "Only Raw Records"
+      ],
+      "color": "#b98cff",
+      "numero": 3,
+      "total": 6,
+      "puntos": [
+       "Más buscavidas que gánster",
+       "Su meta siempre fue la música",
+       "Ha fichado a Real Dimez"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 895,
+       "end": 975,
+       "text": "Dre'Quan Priest siempre fue más buscavidas que gánster."
+      },
+      {
+       "start": 982,
+       "end": 1046,
+       "text": "Su meta, desde el principio, fue la música."
+      },
+      {
+       "start": 1053,
+       "end": 1150,
+       "text": "Y ya ha fichado a su primer gran grupo: Real Dimez."
+      }
+     ],
+     "start": 885,
+     "dur": 274,
+     "beats": [
+      10,
+      97,
+      168
+     ]
+    },
+    {
+     "tipo": "personaje",
+     "capitulo": "Real Dimez",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "nombre": "Real Dimez",
+      "rol": "Dúo de rap",
+      "rasgos": [
+       "Bae-Luxe",
+       "Roxy"
+      ],
+      "color": "#ff3d81",
+      "numero": 4,
+      "total": 6,
+      "puntos": [
+       "Amigas desde el instituto",
+       "De buscarse la vida a triunfar en redes",
+       "Fichadas por Only Raw Records"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1169,
+       "end": 1293,
+       "text": "El dúo Real Dimez lo forman Bae-Luxe y Roxy, amigas desde el instituto."
+      },
+      {
+       "start": 1300,
+       "end": 1402,
+       "text": "Pasaron de buscarse la vida en la calle a hacer rap y triunfar en redes."
+      },
+      {
+       "start": 1410,
+       "end": 1477,
+       "text": "Y ahora están fichadas por Only Raw Records."
+      }
+     ],
+     "start": 1159,
+     "dur": 327,
+     "beats": [
+      10,
+      141,
+      251
+     ]
+    },
+    {
+     "tipo": "personaje",
+     "capitulo": "Raul Bautista",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "nombre": "Raul Bautista",
+      "rol": "Ladrón de bancos",
+      "rasgos": [
+       "Veterano"
+      ],
+      "color": "#ffc857",
+      "numero": 5,
+      "total": 6,
+      "puntos": [
+       "Un ladrón de bancos veterano",
+       "Confianza, encanto y astucia",
+       "Siempre busca talento para sus golpes"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1496,
+       "end": 1565,
+       "text": "Raul Bautista es un ladrón de bancos veterano."
+      },
+      {
+       "start": 1572,
+       "end": 1634,
+       "text": "Tiene confianza, encanto y astucia."
+      },
+      {
+       "start": 1641,
+       "end": 1754,
+       "text": "Y siempre anda buscando talento dispuesto a asumir grandes riesgos."
+      }
+     ],
+     "start": 1486,
+     "dur": 277,
+     "beats": [
+      10,
+      86,
+      155
+     ]
+    },
+    {
+     "tipo": "personaje",
+     "capitulo": "Brian Heder",
+     "fuente": "Web oficial de GTA VI",
+     "props": {
+      "nombre": "Brian Heder",
+      "rol": "Contrabandista",
+      "rasgos": [
+       "Los Cayos",
+       "Astillero"
+      ],
+      "color": "#57c7ff",
+      "numero": 6,
+      "total": 6,
+      "puntos": [
+       "De la edad de oro del contrabando",
+       "Mueve mercancía desde su astillero",
+       "Aloja a Jason a cambio de favores"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1773,
+       "end": 1862,
+       "text": "Y Brian Heder es un contrabandista clásico de los Cayos."
+      },
+      {
+       "start": 1869,
+       "end": 1972,
+       "text": "Sigue moviendo mercancía desde su astillero, con su tercera esposa, Lori."
+      },
+      {
+       "start": 1979,
+       "end": 2104,
+       "text": "Y deja a Jason vivir gratis en una de sus casas, a cambio de algunos favores."
+      }
+     ],
+     "start": 1763,
+     "dur": 350,
+     "beats": [
+      10,
+      106,
+      216
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "props": {
+      "siguiente": "La radio de GTA 6: emisoras y locutores"
+     },
+     "lineas": [
+      {
+       "start": 2124,
+       "end": 2209,
+       "text": "¿Cuál te da más mala espina? Dímelo en los comentarios."
+      },
+      {
+       "start": 2217,
+       "end": 2300,
+       "text": "Suscríbete para seguir todo lo confirmado de GTA 6."
+      }
+     ],
+     "start": 2113,
+     "dur": 236,
+     "beats": [
+      11,
+      104
+     ]
+    }
+   ],
+   "subtitulos": [
+    {
+     "start": 9,
+     "end": 58,
+     "text": "Un contrabandista veterano,"
+    },
+    {
+     "start": 58,
+     "end": 92,
+     "text": "un magnate del rap y un"
+    },
+    {
+     "start": 92,
+     "end": 126,
+     "text": "ladrón de bancos."
+    },
+    {
+     "start": 133,
+     "end": 188,
+     "text": "Estos son los personajes de GTA 6 que"
+    },
+    {
+     "start": 188,
+     "end": 229,
+     "text": "Rockstar ya ha presentado."
+    },
+    {
+     "start": 248,
+     "end": 293,
+     "text": "Cal Hampton es amigo de Jason"
+    },
+    {
+     "start": 293,
+     "end": 325,
+     "text": "y socio de Brian."
+    },
+    {
+     "start": 333,
+     "end": 369,
+     "text": "Se pasa el día escuchando las"
+    },
+    {
+     "start": 369,
+     "end": 424,
+     "text": "comunicaciones de la Guardia Costera."
+    },
+    {
+     "start": 432,
+     "end": 495,
+     "text": "Y donde más seguro se siente es en casa."
+    },
+    {
+     "start": 514,
+     "end": 547,
+     "text": "Luego está Boobie Ike,"
+    },
+    {
+     "start": 547,
+     "end": 601,
+     "text": "una leyenda local de Vice City."
+    },
+    {
+     "start": 608,
+     "end": 655,
+     "text": "Convirtió su pasado en la calle"
+    },
+    {
+     "start": 655,
+     "end": 691,
+     "text": "en un imperio legal:"
+    },
+    {
+     "start": 691,
+     "end": 732,
+     "text": "inmobiliaria, un club y un"
+    },
+    {
+     "start": 732,
+     "end": 772,
+     "text": "estudio de grabación."
+    },
+    {
+     "start": 779,
+     "end": 820,
+     "text": "Y está volcado en su sello,"
+    },
+    {
+     "start": 820,
+     "end": 876,
+     "text": "Only Raw Records, junto a Dre'Quan."
+    },
+    {
+     "start": 895,
+     "end": 936,
+     "text": "Dre'Quan Priest siempre fue más"
+    },
+    {
+     "start": 936,
+     "end": 975,
+     "text": "buscavidas que gánster."
+    },
+    {
+     "start": 982,
+     "end": 1022,
+     "text": "Su meta, desde el principio,"
+    },
+    {
+     "start": 1022,
+     "end": 1046,
+     "text": "fue la música."
+    },
+    {
+     "start": 1053,
+     "end": 1123,
+     "text": "Y ya ha fichado a su primer gran grupo:"
+    },
+    {
+     "start": 1123,
+     "end": 1150,
+     "text": "Real Dimez."
+    },
+    {
+     "start": 1169,
+     "end": 1214,
+     "text": "El dúo Real Dimez lo forman"
+    },
+    {
+     "start": 1214,
+     "end": 1240,
+     "text": "Bae-Luxe y Roxy,"
+    },
+    {
+     "start": 1240,
+     "end": 1293,
+     "text": "amigas desde el instituto."
+    },
+    {
+     "start": 1300,
+     "end": 1356,
+     "text": "Pasaron de buscarse la vida en la calle a"
+    },
+    {
+     "start": 1356,
+     "end": 1402,
+     "text": "hacer rap y triunfar en redes."
+    },
+    {
+     "start": 1410,
+     "end": 1448,
+     "text": "Y ahora están fichadas por"
+    },
+    {
+     "start": 1448,
+     "end": 1477,
+     "text": "Only Raw Records."
+    },
+    {
+     "start": 1496,
+     "end": 1535,
+     "text": "Raul Bautista es un ladrón de"
+    },
+    {
+     "start": 1535,
+     "end": 1565,
+     "text": "bancos veterano."
+    },
+    {
+     "start": 1572,
+     "end": 1634,
+     "text": "Tiene confianza, encanto y astucia."
+    },
+    {
+     "start": 1641,
+     "end": 1691,
+     "text": "Y siempre anda buscando talento"
+    },
+    {
+     "start": 1691,
+     "end": 1754,
+     "text": "dispuesto a asumir grandes riesgos."
+    },
+    {
+     "start": 1773,
+     "end": 1825,
+     "text": "Y Brian Heder es un contrabandista"
+    },
+    {
+     "start": 1825,
+     "end": 1862,
+     "text": "clásico de los Cayos."
+    },
+    {
+     "start": 1869,
+     "end": 1902,
+     "text": "Sigue moviendo mercancía"
+    },
+    {
+     "start": 1902,
+     "end": 1930,
+     "text": "desde su astillero,"
+    },
+    {
+     "start": 1930,
+     "end": 1972,
+     "text": "con su tercera esposa, Lori."
+    },
+    {
+     "start": 1979,
+     "end": 2026,
+     "text": "Y deja a Jason vivir gratis en"
+    },
+    {
+     "start": 2026,
+     "end": 2054,
+     "text": "una de sus casas,"
+    },
+    {
+     "start": 2054,
+     "end": 2104,
+     "text": "a cambio de algunos favores."
+    },
+    {
+     "start": 2124,
+     "end": 2166,
+     "text": "¿Cuál te da más mala espina?"
+    },
+    {
+     "start": 2166,
+     "end": 2209,
+     "text": "Dímelo en los comentarios."
+    },
+    {
+     "start": 2217,
+     "end": 2261,
+     "text": "Suscríbete para seguir todo lo"
+    },
+    {
+     "start": 2261,
+     "end": 2300,
+     "text": "confirmado de GTA 6."
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "slug": "gta-6-radio-emisoras-y-musica",
+   "titulo": "La radio de GTA 6: emisoras, locutores y música confirmados",
+   "publicar": "Domingo 22",
+   "busquedas": [
+    "gta 6 radio",
+    "gta 6 emisoras",
+    "gta 6 música",
+    "gta 6 canciones",
+    "gta 6 bad bunny",
+    "gta 6 banda sonora"
+   ],
+   "miniatura": {
+    "etiqueta": "GTA 6 · RADIO",
+    "lineas": [
+     "LA RADIO",
+     "DE GTA 6"
+    ],
+    "acento": "RADIO",
+    "sello": "6 EMISORAS",
+    "icono": "radio",
+    "tono": "info"
+   },
+   "descripcion": "Rockstar ya ha presentado las primeras seis emisoras de radio de GTA 6, con locutores como Bad Bunny, Lana Del Rey o Burna Boy. Te las repaso una a una, y te cuento lo de los pódcast y la banda sonora.",
+   "etiquetas": [
+    "gta 6",
+    "gta vi",
+    "gta 6 radio",
+    "gta 6 emisoras",
+    "gta 6 música",
+    "gta 6 canciones",
+    "cocoteo fm",
+    "flash fm",
+    "gta 6 bad bunny",
+    "gta 6 banda sonora",
+    "justice gta 6",
+    "grand theft auto 6"
+   ],
+   "fuentes": [
+    {
+     "texto": "Rockstar Games — La música de GTA VI: emisoras de radio del juego",
+     "url": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"
+    },
+    {
+     "texto": "Rockstar Games — La música de GTA VI (web oficial)",
+     "url": "https://www.rockstargames.com/VI/music"
+    },
+    {
+     "texto": "Rockstar Games — Banda sonora original de Justice",
+     "url": "https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice"
+    },
+    {
+     "texto": "Billboard — Los locutores famosos de las emisoras de GTA VI",
+     "url": "https://www.billboard.com/culture/lifestyle/grand-theft-auto-vi-radio-station-hosts-bad-bunny-lana-del-rey-1236357868/"
+    },
+    {
+     "texto": "VGC — Rockstar revela emisoras y confirma radio y pódcast a pie",
+     "url": "https://www.videogameschronicle.com/news/rockstar-reveals-some-of-gta-6s-radio-stations-says-players-can-now-listen-to-the-radio-and-podcasts-on-foot/"
+    }
+   ],
+   "fps": 30,
+   "frames": 2017,
+   "audio": "audio/08.m4a",
+   "escenas": [
+    {
+     "tipo": "gancho",
+     "capitulo": "Las primeras emisoras",
+     "props": {
+      "etiqueta": "MÚSICA Y RADIO",
+      "lineas": [
+       "LA RADIO",
+       "DE GTA 6"
+      ],
+      "acento": [
+       "RADIO"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 9,
+       "end": 102,
+       "text": "Rockstar ya ha presentado las primeras emisoras de GTA 6."
+      },
+      {
+       "start": 110,
+       "end": 188,
+       "text": "Y los locutores no son precisamente desconocidos."
+      }
+     ],
+     "start": 0,
+     "dur": 197,
+     "beats": [
+      9,
+      110
+     ]
+    },
+    {
+     "tipo": "radio",
+     "capitulo": "Cocoteo FM",
+     "fuente": "Rockstar Games y Billboard",
+     "props": {
+      "emisora": "Cocoteo FM",
+      "genero": "Música latina",
+      "locutores": "Bad Bunny y RaiNao",
+      "nota": "En el juego son El Martillo y La Gata",
+      "numero": 1,
+      "total": 6,
+      "color": "#ff3d81"
+     },
+     "lineas": [
+      {
+       "start": 208,
+       "end": 338,
+       "text": "Cocoteo FM es la emisora latina: bachata, merengue, dembow y reguetón."
+      },
+      {
+       "start": 346,
+       "end": 405,
+       "text": "La presentan Bad Bunny y RaiNao."
+      },
+      {
+       "start": 413,
+       "end": 469,
+       "text": "En el juego son El Martillo y La Gata."
+      }
+     ],
+     "start": 197,
+     "dur": 281,
+     "beats": [
+      11,
+      149,
+      216
+     ]
+    },
+    {
+     "tipo": "radio",
+     "capitulo": "Back Country Radio",
+     "fuente": "Rockstar Games y Billboard",
+     "props": {
+      "emisora": "Back Country Radio",
+      "genero": "Country",
+      "locutores": "Lana Del Rey y Morgan Wallen",
+      "numero": 2,
+      "total": 6,
+      "color": "#ff7a45"
+     },
+     "lineas": [
+      {
+       "start": 488,
+       "end": 575,
+       "text": "Back Country Radio pone country, del clásico al más rebelde."
+      },
+      {
+       "start": 583,
+       "end": 652,
+       "text": "Con Lana Del Rey y Morgan Wallen al micrófono."
+      }
+     ],
+     "start": 478,
+     "dur": 183,
+     "beats": [
+      10,
+      105
+     ]
+    },
+    {
+     "tipo": "radio",
+     "capitulo": "AfroBank FM",
+     "fuente": "Rockstar Games y Billboard",
+     "props": {
+      "emisora": "AfroBank FM",
+      "genero": "Música africana",
+      "locutores": "Burna Boy y Palmsy",
+      "numero": 3,
+      "total": 6,
+      "color": "#3ddc97"
+     },
+     "lineas": [
+      {
+       "start": 671,
+       "end": 787,
+       "text": "AfroBank FM recorre la música africana, de los clásicos al amapiano."
+      },
+      {
+       "start": 794,
+       "end": 846,
+       "text": "La presentan Burna Boy y Palmsy."
+      }
+     ],
+     "start": 661,
+     "dur": 194,
+     "beats": [
+      10,
+      133
+     ]
+    },
+    {
+     "tipo": "radio",
+     "capitulo": "The Chamber",
+     "fuente": "Rockstar Games",
+     "props": {
+      "emisora": "The Chamber 106.6",
+      "genero": "Rock duro y metal",
+      "locutores": "DJ Kerry y DJ Tom",
+      "numero": 4,
+      "total": 6,
+      "color": "#ff4d6d"
+     },
+     "lineas": [
+      {
+       "start": 865,
+       "end": 938,
+       "text": "The Chamber es la emisora de rock duro y metal."
+      },
+      {
+       "start": 945,
+       "end": 995,
+       "text": "Con DJ Kerry y DJ Tom."
+      }
+     ],
+     "start": 855,
+     "dur": 149,
+     "beats": [
+      10,
+      90
+     ]
+    },
+    {
+     "tipo": "radio",
+     "capitulo": "Flash FM",
+     "fuente": "Rockstar Games y Billboard",
+     "props": {
+      "emisora": "Flash FM",
+      "genero": "Pop",
+      "locutores": "Robyn y Alex Consani",
+      "numero": 5,
+      "total": 6,
+      "color": "#57c7ff"
+     },
+     "lineas": [
+      {
+       "start": 1014,
+       "end": 1124,
+       "text": "Flash FM, la emisora pop de toda la vida en Vice City, está de vuelta."
+      },
+      {
+       "start": 1131,
+       "end": 1186,
+       "text": "Esta vez con Robyn y Alex Consani."
+      }
+     ],
+     "start": 1004,
+     "dur": 191,
+     "beats": [
+      10,
+      127
+     ]
+    },
+    {
+     "tipo": "radio",
+     "capitulo": "Dirty South Classics",
+     "fuente": "Rockstar Games y Billboard",
+     "props": {
+      "emisora": "Dirty South Classics",
+      "genero": "Rap del sur de Estados Unidos",
+      "locutores": "Trick Daddy y Trina",
+      "numero": 6,
+      "total": 6,
+      "color": "#ffd166"
+     },
+     "lineas": [
+      {
+       "start": 1205,
+       "end": 1307,
+       "text": "Y Dirty South Classics repasa el rap del sur de Estados Unidos."
+      },
+      {
+       "start": 1314,
+       "end": 1395,
+       "text": "Con dos leyendas de Miami: Trick Daddy y Trina."
+      }
+     ],
+     "start": 1195,
+     "dur": 209,
+     "beats": [
+      10,
+      119
+     ]
+    },
+    {
+     "tipo": "lista",
+     "capitulo": "Pódcast y banda sonora",
+     "fuente": "Rockstar Newswire",
+     "props": {
+      "titulo": "Y además",
+      "items": [
+       {
+        "icono": "cascos",
+        "texto": "Radio y pódcast, también a pie",
+        "detalle": "Con auriculares: los pódcast son una novedad en la saga"
+       },
+       {
+        "icono": "musica",
+        "texto": "Banda sonora original de Justice",
+        "detalle": "El dúo francés de música electrónica",
+        "tono": "warn"
+       },
+       {
+        "icono": "radio",
+        "texto": "Quedan emisoras por anunciar",
+        "detalle": "Rock clásico y radio hablada, entre otras"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1414,
+       "end": 1578,
+       "text": "Además, por primera vez en la saga hay pódcast, y puedes escuchar la radio también a pie, con auriculares."
+      },
+      {
+       "start": 1585,
+       "end": 1666,
+       "text": "La banda sonora original es del dúo francés Justice."
+      },
+      {
+       "start": 1673,
+       "end": 1803,
+       "text": "Y quedan emisoras por anunciar, como una de rock clásico y otra de radio hablada."
+      }
+     ],
+     "start": 1404,
+     "dur": 408,
+     "beats": [
+      10,
+      181,
+      269
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "props": {
+      "siguiente": "¿GTA 6 tiene online?"
+     },
+     "lineas": [
+      {
+       "start": 1823,
+       "end": 1895,
+       "text": "¿Qué emisora vas a dejar puesta? Te leo abajo."
+      },
+      {
+       "start": 1902,
+       "end": 1968,
+       "text": "Suscríbete para más GTA 6 confirmado."
+      }
+     ],
+     "start": 1812,
+     "dur": 205,
+     "beats": [
+      11,
+      90
+     ]
+    }
+   ],
+   "subtitulos": [
+    {
+     "start": 9,
+     "end": 51,
+     "text": "Rockstar ya ha presentado las"
+    },
+    {
+     "start": 51,
+     "end": 102,
+     "text": "primeras emisoras de GTA 6."
+    },
+    {
+     "start": 110,
+     "end": 140,
+     "text": "Y los locutores no son"
+    },
+    {
+     "start": 140,
+     "end": 188,
+     "text": "precisamente desconocidos."
+    },
+    {
+     "start": 208,
+     "end": 269,
+     "text": "Cocoteo FM es la emisora latina:"
+    },
+    {
+     "start": 269,
+     "end": 338,
+     "text": "bachata, merengue, dembow y reguetón."
+    },
+    {
+     "start": 346,
+     "end": 405,
+     "text": "La presentan Bad Bunny y RaiNao."
+    },
+    {
+     "start": 413,
+     "end": 469,
+     "text": "En el juego son El Martillo y La Gata."
+    },
+    {
+     "start": 488,
+     "end": 533,
+     "text": "Back Country Radio pone country,"
+    },
+    {
+     "start": 533,
+     "end": 575,
+     "text": "del clásico al más rebelde."
+    },
+    {
+     "start": 583,
+     "end": 617,
+     "text": "Con Lana Del Rey y Morgan"
+    },
+    {
+     "start": 617,
+     "end": 652,
+     "text": "Wallen al micrófono."
+    },
+    {
+     "start": 671,
+     "end": 740,
+     "text": "AfroBank FM recorre la música africana,"
+    },
+    {
+     "start": 740,
+     "end": 787,
+     "text": "de los clásicos al amapiano."
+    },
+    {
+     "start": 794,
+     "end": 846,
+     "text": "La presentan Burna Boy y Palmsy."
+    },
+    {
+     "start": 865,
+     "end": 906,
+     "text": "The Chamber es la emisora de"
+    },
+    {
+     "start": 906,
+     "end": 938,
+     "text": "rock duro y metal."
+    },
+    {
+     "start": 945,
+     "end": 995,
+     "text": "Con DJ Kerry y DJ Tom."
+    },
+    {
+     "start": 1014,
+     "end": 1067,
+     "text": "Flash FM, la emisora pop de toda"
+    },
+    {
+     "start": 1067,
+     "end": 1097,
+     "text": "la vida en Vice City,"
+    },
+    {
+     "start": 1097,
+     "end": 1124,
+     "text": "está de vuelta."
+    },
+    {
+     "start": 1131,
+     "end": 1186,
+     "text": "Esta vez con Robyn y Alex Consani."
+    },
+    {
+     "start": 1205,
+     "end": 1259,
+     "text": "Y Dirty South Classics repasa el rap"
+    },
+    {
+     "start": 1259,
+     "end": 1307,
+     "text": "del sur de Estados Unidos."
+    },
+    {
+     "start": 1314,
+     "end": 1361,
+     "text": "Con dos leyendas de Miami:"
+    },
+    {
+     "start": 1361,
+     "end": 1395,
+     "text": "Trick Daddy y Trina."
+    },
+    {
+     "start": 1414,
+     "end": 1457,
+     "text": "Además, por primera vez en la"
+    },
+    {
+     "start": 1457,
+     "end": 1485,
+     "text": "saga hay pódcast,"
+    },
+    {
+     "start": 1485,
+     "end": 1524,
+     "text": "y puedes escuchar la radio"
+    },
+    {
+     "start": 1524,
+     "end": 1546,
+     "text": "también a pie,"
+    },
+    {
+     "start": 1546,
+     "end": 1578,
+     "text": "con auriculares."
+    },
+    {
+     "start": 1585,
+     "end": 1631,
+     "text": "La banda sonora original es del"
+    },
+    {
+     "start": 1631,
+     "end": 1666,
+     "text": "dúo francés Justice."
+    },
+    {
+     "start": 1673,
+     "end": 1725,
+     "text": "Y quedan emisoras por anunciar,"
+    },
+    {
+     "start": 1725,
+     "end": 1763,
+     "text": "como una de rock clásico y"
+    },
+    {
+     "start": 1763,
+     "end": 1803,
+     "text": "otra de radio hablada."
+    },
+    {
+     "start": 1823,
+     "end": 1871,
+     "text": "¿Qué emisora vas a dejar puesta?"
+    },
+    {
+     "start": 1871,
+     "end": 1895,
+     "text": "Te leo abajo."
+    },
+    {
+     "start": 1902,
+     "end": 1968,
+     "text": "Suscríbete para más GTA 6 confirmado."
+    }
+   ]
+  },
+  {
+   "id": "09",
+   "slug": "gta-6-tiene-online",
+   "titulo": "¿GTA 6 tiene online? Qué pasa con GTA Online el día del lanzamiento",
+   "publicar": "Jueves 19 (el día del lanzamiento es cuando la gente lo busca y no lo encuentra)",
+   "busquedas": [
+    "gta 6 online",
+    "gta 6 multijugador",
+    "gta 6 online cuándo sale",
+    "gta online gta 6",
+    "gta 6 modo online"
+   ],
+   "miniatura": {
+    "etiqueta": "GTA 6 · ONLINE",
+    "lineas": [
+     "¿TIENE",
+     "ONLINE?"
+    ],
+    "acento": "ONLINE",
+    "sello": "DE SALIDA, NO",
+    "tono": "no"
+   },
+   "descripcion": "Si buscas el modo online de GTA 6 el día del lanzamiento, no lo vas a encontrar. Te explico qué ha dicho Rockstar, qué pasó con GTA 5 y Red Dead Redemption 2, qué ocurre con GTA Online y de qué fechas no debes fiarte.",
+   "etiquetas": [
+    "gta 6",
+    "gta vi",
+    "gta 6 online",
+    "gta 6 multijugador",
+    "gta online",
+    "gta 6 online fecha",
+    "gta 6 modo online",
+    "gta 6 beta",
+    "grand theft auto 6"
+   ],
+   "fuentes": [
+    {
+     "texto": "Rockstar Games — Anuncio de la reserva («una experiencia para un jugador»)",
+     "url": "https://www.rockstargames.com/newswire/article/5171972o3ak5oa/pre-order-grand-theft-auto-vi-on-june-25"
+    },
+    {
+     "texto": "Push Square — GTA 6 no tiene multijugador online de lanzamiento",
+     "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch"
+    },
+    {
+     "texto": "GamesRadar — Rockstar describe GTA 6 como una experiencia para un jugador",
+     "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-online-looks-unlikely-for-launch-as-rockstar-refers-to-the-game-as-a-single-player-experience/"
+    },
+    {
+     "texto": "TweakTown — Take-Two reitera que GTA Online seguirá tras GTA 6",
+     "url": "https://tweaktown.com/news/113044/gta-online-will-continue-after-gta-6s-release-take-two-reiterates/index.html"
+    },
+    {
+     "texto": "GameSpot — Un banco estima el online de GTA 6 para principios de 2027 (estimación, no anuncio)",
+     "url": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/"
+    }
+   ],
+   "fps": 30,
+   "frames": 1825,
+   "audio": "audio/09.m4a",
+   "escenas": [
+    {
+     "tipo": "gancho",
+     "capitulo": "¿Tiene online?",
+     "props": {
+      "etiqueta": "MULTIJUGADOR",
+      "lineas": [
+       "¿GTA 6 TIENE",
+       "ONLINE?"
+      ],
+      "acento": [
+       "ONLINE"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 9,
+       "end": 131,
+       "text": "Si el jueves buscas el modo online de GTA 6, no lo vas a encontrar."
+      },
+      {
+       "start": 139,
+       "end": 221,
+       "text": "Te explico por qué, y qué pasa con GTA Online."
+      }
+     ],
+     "start": 0,
+     "dur": 230,
+     "beats": [
+      9,
+      139
+     ]
+    },
+    {
+     "tipo": "veredicto",
+     "capitulo": "De lanzamiento, no",
+     "fuente": "Rockstar Games",
+     "props": {
+      "pregunta": "¿Online de lanzamiento?",
+      "icono": "mundo",
+      "sello": "NO",
+      "tono": "no",
+      "detalle": "Rockstar: «una experiencia para un jugador»",
+      "golpe": 1
+     },
+     "lineas": [
+      {
+       "start": 240,
+       "end": 278,
+       "text": "¿Hay online de lanzamiento?"
+      },
+      {
+       "start": 285,
+       "end": 403,
+       "text": "No. Rockstar describe GTA 6 como una experiencia para un jugador."
+      },
+      {
+       "start": 410,
+       "end": 526,
+       "text": "El 19 de noviembre llega la historia de Jason y Lucia, y nada más."
+      }
+     ],
+     "start": 230,
+     "dur": 305,
+     "beats": [
+      10,
+      55,
+      180
+     ]
+    },
+    {
+     "tipo": "linea",
+     "capitulo": "Ya pasó antes",
+     "props": {
+      "titulo": "Ya pasó antes",
+      "puntos": [
+       {
+        "fecha": "2013",
+        "texto": "GTA 5 sale sin online. GTA Online llega 2 semanas después"
+       },
+       {
+        "fecha": "2018",
+        "texto": "Red Dead Redemption 2: la beta del online llega al mes"
+       },
+       {
+        "fecha": "2026",
+        "texto": "GTA 6: el online no tiene fecha",
+        "tono": "warn"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 545,
+       "end": 741,
+       "text": "No es la primera vez. En 2013, GTA 5 salió sin online, y GTA Online llegó dos semanas después."
+      },
+      {
+       "start": 748,
+       "end": 939,
+       "text": "En 2018, Red Dead Redemption 2 también salió solo con historia. La beta del online llegó un mes más tarde."
+      },
+      {
+       "start": 947,
+       "end": 1029,
+       "text": "Para GTA 6, de momento, no hay fecha oficial."
+      }
+     ],
+     "start": 535,
+     "dur": 503,
+     "beats": [
+      10,
+      213,
+      412
+     ]
+    },
+    {
+     "tipo": "nota",
+     "capitulo": "¿Y GTA Online?",
+     "fuente": "Take-Two, resultados de agosto de 2026",
+     "props": {
+      "icono": "escudo",
+      "titulo": "¿Y el GTA Online de siempre?",
+      "cuerpo": "Sigue funcionando. La matriz de Rockstar espera seguir dándole soporte.",
+      "tono": "ok"
+     },
+     "lineas": [
+      {
+       "start": 1048,
+       "end": 1125,
+       "text": "¿Y el GTA Online de siempre? Sigue funcionando."
+      },
+      {
+       "start": 1132,
+       "end": 1236,
+       "text": "La empresa matriz de Rockstar ha dicho que espera seguir dándole soporte."
+      }
+     ],
+     "start": 1038,
+     "dur": 207,
+     "beats": [
+      10,
+      94
+     ]
+    },
+    {
+     "tipo": "lista",
+     "capitulo": "De qué no fiarte",
+     "props": {
+      "titulo": "Ojo con lo que leas",
+      "items": [
+       {
+        "icono": "calendario",
+        "texto": "«Sale a principios de 2027»",
+        "detalle": "Es una estimación de analistas, no un anuncio",
+        "tono": "warn",
+        "estado": "SIN CONFIRMAR"
+       },
+       {
+        "icono": "alerta",
+        "texto": "«Beta» o «acceso anticipado»",
+        "detalle": "Rockstar no ha anunciado nada parecido",
+        "tono": "no",
+        "estado": "DESCONFÍA"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1255,
+       "end": 1403,
+       "text": "Vas a ver fechas como principios de 2027. Son estimaciones de analistas, no anuncios."
+      },
+      {
+       "start": 1410,
+       "end": 1606,
+       "text": "Y si alguien te ofrece una beta o acceso anticipado al online, desconfía: Rockstar no ha anunciado nada parecido."
+      }
+     ],
+     "start": 1245,
+     "dur": 370,
+     "beats": [
+      10,
+      165
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "props": {
+      "siguiente": "Trucos de GTA 6: la verdad"
+     },
+     "lineas": [
+      {
+       "start": 1626,
+       "end": 1719,
+       "text": "En cuanto haya fecha oficial para el online, la tendrás aquí."
+      },
+      {
+       "start": 1727,
+       "end": 1776,
+       "text": "Suscríbete y activa la campana."
+      }
+     ],
+     "start": 1615,
+     "dur": 210,
+     "beats": [
+      11,
+      112
+     ]
+    }
+   ],
+   "subtitulos": [
+    {
+     "start": 9,
+     "end": 54,
+     "text": "Si el jueves buscas el modo"
+    },
+    {
+     "start": 54,
+     "end": 89,
+     "text": "online de GTA 6,"
+    },
+    {
+     "start": 89,
+     "end": 131,
+     "text": "no lo vas a encontrar."
+    },
+    {
+     "start": 139,
+     "end": 181,
+     "text": "Te explico por qué, y qué"
+    },
+    {
+     "start": 181,
+     "end": 221,
+     "text": "pasa con GTA Online."
+    },
+    {
+     "start": 240,
+     "end": 278,
+     "text": "¿Hay online de lanzamiento?"
+    },
+    {
+     "start": 285,
+     "end": 351,
+     "text": "No. Rockstar describe GTA 6 como una"
+    },
+    {
+     "start": 351,
+     "end": 403,
+     "text": "experiencia para un jugador."
+    },
+    {
+     "start": 410,
+     "end": 454,
+     "text": "El 19 de noviembre llega la"
+    },
+    {
+     "start": 454,
+     "end": 502,
+     "text": "historia de Jason y Lucia,"
+    },
+    {
+     "start": 502,
+     "end": 526,
+     "text": "y nada más."
+    },
+    {
+     "start": 545,
+     "end": 590,
+     "text": "No es la primera vez."
+    },
+    {
+     "start": 590,
+     "end": 661,
+     "text": "En 2013, GTA 5 salió sin online,"
+    },
+    {
+     "start": 661,
+     "end": 741,
+     "text": "y GTA Online llegó dos semanas después."
+    },
+    {
+     "start": 748,
+     "end": 802,
+     "text": "En 2018, Red Dead Redemption 2"
+    },
+    {
+     "start": 802,
+     "end": 865,
+     "text": "también salió solo con historia."
+    },
+    {
+     "start": 865,
+     "end": 909,
+     "text": "La beta del online llegó un"
+    },
+    {
+     "start": 909,
+     "end": 939,
+     "text": "mes más tarde."
+    },
+    {
+     "start": 947,
+     "end": 990,
+     "text": "Para GTA 6, de momento,"
+    },
+    {
+     "start": 990,
+     "end": 1029,
+     "text": "no hay fecha oficial."
+    },
+    {
+     "start": 1048,
+     "end": 1091,
+     "text": "¿Y el GTA Online de siempre?"
+    },
+    {
+     "start": 1091,
+     "end": 1125,
+     "text": "Sigue funcionando."
+    },
+    {
+     "start": 1132,
+     "end": 1187,
+     "text": "La empresa matriz de Rockstar ha dicho que"
+    },
+    {
+     "start": 1187,
+     "end": 1236,
+     "text": "espera seguir dándole soporte."
+    },
+    {
+     "start": 1255,
+     "end": 1287,
+     "text": "Vas a ver fechas como"
+    },
+    {
+     "start": 1287,
+     "end": 1325,
+     "text": "principios de 2027."
+    },
+    {
+     "start": 1325,
+     "end": 1377,
+     "text": "Son estimaciones de analistas,"
+    },
+    {
+     "start": 1377,
+     "end": 1403,
+     "text": "no anuncios."
+    },
+    {
+     "start": 1410,
+     "end": 1461,
+     "text": "Y si alguien te ofrece una beta o"
+    },
+    {
+     "start": 1461,
+     "end": 1511,
+     "text": "acceso anticipado al online,"
+    },
+    {
+     "start": 1511,
+     "end": 1558,
+     "text": "desconfía: Rockstar no ha"
+    },
+    {
+     "start": 1558,
+     "end": 1606,
+     "text": "anunciado nada parecido."
+    },
+    {
+     "start": 1626,
+     "end": 1667,
+     "text": "En cuanto haya fecha oficial"
+    },
+    {
+     "start": 1667,
+     "end": 1690,
+     "text": "para el online,"
+    },
+    {
+     "start": 1690,
+     "end": 1719,
+     "text": "la tendrás aquí."
+    },
+    {
+     "start": 1727,
+     "end": 1776,
+     "text": "Suscríbete y activa la campana."
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "slug": "gta-6-trucos-la-verdad",
+   "titulo": "Trucos de GTA 6: la verdad antes de que busques códigos",
+   "publicar": "Jueves 19 (el primer día todo el mundo busca «trucos gta 6»)",
+   "busquedas": [
+    "gta 6 trucos",
+    "trucos gta 6 ps5",
+    "gta 6 claves",
+    "gta 6 dinero infinito",
+    "gta 6 códigos"
+   ],
+   "miniatura": {
+    "etiqueta": "GTA 6 · TRUCOS",
+    "lineas": [
+     "¿HAY",
+     "TRUCOS?"
+    ],
+    "acento": "TRUCOS",
+    "sello": "LA VERDAD",
+    "icono": "ojo",
+    "tono": "warn"
+   },
+   "descripcion": "Antes de fiarte de una lista de trucos de GTA 6: Rockstar no ha confirmado ninguno todavía. Te cuento de dónde salen las listas que circulan, cómo han funcionado los trucos en toda la saga y qué estafas evitar.",
+   "etiquetas": [
+    "gta 6",
+    "gta vi",
+    "gta 6 trucos",
+    "trucos gta 6",
+    "gta 6 claves",
+    "gta 6 códigos",
+    "gta 6 dinero infinito",
+    "gta 6 trucos ps5",
+    "gta 6 trucos xbox",
+    "grand theft auto 6"
+   ],
+   "fuentes": [
+    {
+     "texto": "Rockstar Games — Web oficial de GTA VI (no hay trucos anunciados)",
+     "url": "https://www.rockstargames.com/VI"
+    },
+    {
+     "texto": "Cheat Code Central — ¿Tendrá trucos GTA 6? Lo que se sabe antes del lanzamiento",
+     "url": "https://www.cheatcc.com/articles/gta-6-cheats/"
+    },
+    {
+     "texto": "Rockstar Games — Soporte oficial de GTA VI",
+     "url": "https://support.rockstargames.com/VI"
+    }
+   ],
+   "fps": 30,
+   "frames": 1940,
+   "audio": "audio/10.m4a",
+   "escenas": [
+    {
+     "tipo": "gancho",
+     "capitulo": "Las listas de trucos",
+     "props": {
+      "etiqueta": "TRUCOS Y CÓDIGOS",
+      "lineas": [
+       "TRUCOS",
+       "DE GTA 6"
+      ],
+      "acento": [
+       "TRUCOS"
+      ]
+     },
+     "lineas": [
+      {
+       "start": 9,
+       "end": 78,
+       "text": "Dinero infinito, armas, un tanque…"
+      },
+      {
+       "start": 85,
+       "end": 227,
+       "text": "Todas las listas de trucos de GTA 6 que has visto esta semana tienen el mismo problema."
+      }
+     ],
+     "start": 0,
+     "dur": 236,
+     "beats": [
+      9,
+      85
+     ]
+    },
+    {
+     "tipo": "dato",
+     "capitulo": "Cuántos hay confirmados",
+     "props": {
+      "antetitulo": "TRUCOS CONFIRMADOS POR ROCKSTAR",
+      "valor": "0",
+      "texto": "antes del lanzamiento",
+      "nota": "Tampoco ha dicho que no vaya a haberlos",
+      "golpe": 0
+     },
+     "lineas": [
+      {
+       "start": 246,
+       "end": 366,
+       "text": "A día de hoy, Rockstar no ha confirmado ni un solo truco de GTA 6."
+      },
+      {
+       "start": 373,
+       "end": 435,
+       "text": "Tampoco ha dicho que no vaya a haberlos."
+      }
+     ],
+     "start": 236,
+     "dur": 208,
+     "beats": [
+      10,
+      137
+     ]
+    },
+    {
+     "tipo": "veredicto",
+     "capitulo": "De dónde salen las listas",
+     "props": {
+      "pregunta": "Las listas que circulan",
+      "icono": "alerta",
+      "sello": "COPIAS DE GTA 5",
+      "tono": "no",
+      "detalle": "Los códigos nunca se heredan de un juego a otro",
+      "golpe": 1
+     },
+     "lineas": [
+      {
+       "start": 454,
+       "end": 497,
+       "text": "¿Y esas listas que circulan?"
+      },
+      {
+       "start": 504,
+       "end": 583,
+       "text": "Muchas son los códigos de GTA 5 con otro título."
+      },
+      {
+       "start": 590,
+       "end": 723,
+       "text": "Y los trucos nunca se han heredado de un juego a otro: cada entrega tiene los suyos."
+      }
+     ],
+     "start": 444,
+     "dur": 288,
+     "beats": [
+      10,
+      60,
+      146
+     ]
+    },
+    {
+     "tipo": "linea",
+     "capitulo": "Los trucos en la saga",
+     "props": {
+      "titulo": "Cómo han sido los trucos en la saga",
+      "puntos": [
+       {
+        "fecha": "GTA III",
+        "texto": "2001: combinaciones de botones"
+       },
+       {
+        "fecha": "GTA IV",
+        "texto": "2008: números en el móvil del juego"
+       },
+       {
+        "fecha": "GTA 5",
+        "texto": "2013: botones y, más tarde, el móvil"
+       },
+       {
+        "fecha": "Red Dead 2",
+        "texto": "2018: frases ocultas en periódicos"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 742,
+       "end": 946,
+       "text": "La buena noticia es la tradición. Desde GTA III, todas las entregas principales han tenido trucos en el modo historia."
+      },
+      {
+       "start": 953,
+       "end": 1029,
+       "text": "En GTA IV se marcaban como números de teléfono."
+      },
+      {
+       "start": 1037,
+       "end": 1145,
+       "text": "En GTA 5, con combinaciones de botones y, más tarde, también con el móvil."
+      },
+      {
+       "start": 1152,
+       "end": 1270,
+       "text": "Y en Red Dead Redemption 2 eran frases que encontrabas en los periódicos."
+      }
+     ],
+     "start": 732,
+     "dur": 547,
+     "beats": [
+      10,
+      221,
+      305,
+      420
+     ]
+    },
+    {
+     "tipo": "lista",
+     "capitulo": "Tres cosas que no cambian",
+     "props": {
+      "titulo": "Tres cosas que no cambian",
+      "items": [
+       {
+        "icono": "prohibido",
+        "texto": "En el online no hay trucos",
+        "detalle": "Rockstar nunca los ha permitido",
+        "tono": "no"
+       },
+       {
+        "icono": "estrella",
+        "texto": "Bloquean logros y trofeos",
+        "detalle": "En GTA 5, durante esa sesión de juego",
+        "tono": "warn"
+       },
+       {
+        "icono": "candado",
+        "texto": "«Generador de dinero» = estafa",
+        "detalle": "No des tu cuenta ni tus datos a nadie",
+        "tono": "no"
+       }
+      ]
+     },
+     "lineas": [
+      {
+       "start": 1289,
+       "end": 1444,
+       "text": "Tres cosas que no cambian. En el online no hay trucos: Rockstar nunca los ha permitido."
+      },
+      {
+       "start": 1452,
+       "end": 1584,
+       "text": "En GTA 5, usarlos desactivaba los logros y trofeos durante esa sesión."
+      },
+      {
+       "start": 1591,
+       "end": 1718,
+       "text": "Y los generadores de dinero son una estafa. No des tu cuenta ni tus datos a nadie."
+      }
+     ],
+     "start": 1279,
+     "dur": 448,
+     "beats": [
+      10,
+      173,
+      312
+     ]
+    },
+    {
+     "tipo": "cierre",
+     "props": {
+      "siguiente": "¿GTA 6 tiene online?"
+     },
+     "lineas": [
+      {
+       "start": 1738,
+       "end": 1833,
+       "text": "En cuanto haya trucos verificados, los tendrás en este canal."
+      },
+      {
+       "start": 1840,
+       "end": 1891,
+       "text": "Suscríbete para no perdértelos."
+      }
+     ],
+     "start": 1727,
+     "dur": 213,
+     "beats": [
+      11,
+      113
+     ]
+    }
+   ],
+   "subtitulos": [
+    {
+     "start": 9,
+     "end": 54,
+     "text": "Dinero infinito, armas,"
+    },
+    {
+     "start": 54,
+     "end": 78,
+     "text": "un tanque…"
+    },
+    {
+     "start": 85,
+     "end": 142,
+     "text": "Todas las listas de trucos de GTA 6"
+    },
+    {
+     "start": 142,
+     "end": 181,
+     "text": "que has visto esta semana"
+    },
+    {
+     "start": 181,
+     "end": 227,
+     "text": "tienen el mismo problema."
+    },
+    {
+     "start": 246,
+     "end": 312,
+     "text": "A día de hoy, Rockstar no ha confirmado"
+    },
+    {
+     "start": 312,
+     "end": 366,
+     "text": "ni un solo truco de GTA 6."
+    },
+    {
+     "start": 373,
+     "end": 435,
+     "text": "Tampoco ha dicho que no vaya a haberlos."
+    },
+    {
+     "start": 454,
+     "end": 497,
+     "text": "¿Y esas listas que circulan?"
+    },
+    {
+     "start": 504,
+     "end": 549,
+     "text": "Muchas son los códigos de GTA"
+    },
+    {
+     "start": 549,
+     "end": 583,
+     "text": "5 con otro título."
+    },
+    {
+     "start": 590,
+     "end": 626,
+     "text": "Y los trucos nunca se han"
+    },
+    {
+     "start": 626,
+     "end": 672,
+     "text": "heredado de un juego a otro:"
+    },
+    {
+     "start": 672,
+     "end": 723,
+     "text": "cada entrega tiene los suyos."
+    },
+    {
+     "start": 742,
+     "end": 801,
+     "text": "La buena noticia es la tradición."
+    },
+    {
+     "start": 801,
+     "end": 858,
+     "text": "Desde GTA III, todas las entregas"
+    },
+    {
+     "start": 858,
+     "end": 908,
+     "text": "principales han tenido trucos"
+    },
+    {
+     "start": 908,
+     "end": 946,
+     "text": "en el modo historia."
+    },
+    {
+     "start": 953,
+     "end": 994,
+     "text": "En GTA IV se marcaban como"
+    },
+    {
+     "start": 994,
+     "end": 1029,
+     "text": "números de teléfono."
+    },
+    {
+     "start": 1037,
+     "end": 1059,
+     "text": "En GTA 5, con"
+    },
+    {
+     "start": 1059,
+     "end": 1098,
+     "text": "combinaciones de botones y,"
+    },
+    {
+     "start": 1098,
+     "end": 1145,
+     "text": "más tarde, también con el móvil."
+    },
+    {
+     "start": 1152,
+     "end": 1216,
+     "text": "Y en Red Dead Redemption 2 eran frases que"
+    },
+    {
+     "start": 1216,
+     "end": 1270,
+     "text": "encontrabas en los periódicos."
+    },
+    {
+     "start": 1289,
+     "end": 1338,
+     "text": "Tres cosas que no cambian."
+    },
+    {
+     "start": 1338,
+     "end": 1386,
+     "text": "En el online no hay trucos:"
+    },
+    {
+     "start": 1386,
+     "end": 1444,
+     "text": "Rockstar nunca los ha permitido."
+    },
+    {
+     "start": 1452,
+     "end": 1528,
+     "text": "En GTA 5, usarlos desactivaba los logros"
+    },
+    {
+     "start": 1528,
+     "end": 1584,
+     "text": "y trofeos durante esa sesión."
+    },
+    {
+     "start": 1591,
+     "end": 1632,
+     "text": "Y los generadores de dinero"
+    },
+    {
+     "start": 1632,
+     "end": 1660,
+     "text": "son una estafa."
+    },
+    {
+     "start": 1660,
+     "end": 1718,
+     "text": "No des tu cuenta ni tus datos a nadie."
+    },
+    {
+     "start": 1738,
+     "end": 1790,
+     "text": "En cuanto haya trucos verificados,"
+    },
+    {
+     "start": 1790,
+     "end": 1833,
+     "text": "los tendrás en este canal."
+    },
+    {
+     "start": 1840,
+     "end": 1891,
+     "text": "Suscríbete para no perdértelos."
+    }
+   ]
+  }
+ ]
+}

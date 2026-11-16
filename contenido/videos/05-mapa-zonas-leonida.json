@@ -1,0 +1,126 @@
+{
+  "id": "05",
+  "slug": "gta-6-mapa-zonas-de-leonida",
+  "titulo": "El mapa de GTA 6: las 6 zonas de Leonida explicadas",
+  "publicar": "Jueves 19 (ese día Rockstar publica el mapa oficial: enlázalo en el comentario fijado)",
+  "busquedas": ["gta 6 mapa", "gta 6 mapa completo", "gta 6 leonida", "gta 6 vice city mapa", "gta 6 zonas"],
+  "miniatura": {"etiqueta": "GTA 6 · MAPA", "lineas": ["LAS 6", "ZONAS"], "acento": "6", "sello": "LEONIDA", "icono": "mapa", "tono": "info"},
+  "descripcion": "El mapa de GTA 6 no es solo Vice City. Repaso las seis zonas del estado de Leonida que Rockstar ha presentado de forma oficial, qué hay en cada una y cuándo sale el mapa completo.",
+  "etiquetas": ["gta 6", "gta vi", "gta 6 mapa", "gta 6 leonida", "gta 6 vice city", "leonida keys", "grassrivers", "port gellhorn", "ambrosia", "mount kalaga", "gta 6 zonas", "grand theft auto 6"],
+  "fuentes": [
+    {"texto": "Rockstar Games — «Only in Leonida»: lugares y personajes (web oficial de GTA VI)", "url": "https://www.rockstargames.com/VI/only-in-leonida"},
+    {"texto": "Rockstar Games — La precarga empieza el 10 de noviembre (anuncia el mapa oficial para el día 19)", "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"},
+    {"texto": "Game Informer — Rockstar enseña las seis grandes zonas de GTA VI", "url": "https://gameinformer.com/2025/05/06/rockstar-shows-off-six-major-areas-of-vice-city-in-grand-theft-auto-vi"}
+  ],
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "capitulo": "No es solo Vice City",
+      "props": {"etiqueta": "EL MAPA DE GTA 6", "lineas": ["NO ES SOLO", "VICE CITY"], "acento": ["VICE", "CITY"]},
+      "narracion": [
+        "El mapa de GTA 6 no es solo Vice City.",
+        "Rockstar ha presentado seis zonas, y la última no tiene nada que ver con playas."
+      ]
+    },
+    {
+      "tipo": "zona",
+      "capitulo": "El estado de Leonida",
+      "fuente": "Web oficial de GTA VI",
+      "props": {"antetitulo": "El escenario", "nombre": "Leonida", "lema": "El estado ficticio de GTA 6", "desde": 0, "puntos": ["Inspirado en Florida", "Seis zonas presentadas por Rockstar"]},
+      "narracion": [
+        "Todo ocurre en Leonida, un estado ficticio inspirado en Florida.",
+        "Estas son las seis zonas que Rockstar ha enseñado de forma oficial."
+      ]
+    },
+    {
+      "tipo": "zona",
+      "capitulo": "Vice City",
+      "fuente": "Web oficial de GTA VI",
+      "props": {"zona": "vice", "nombre": "Vice City", "lema": "La gran ciudad", "puntos": ["Hoteles art déco y playas en Ocean Beach", "El barrio de Little Cuba", "Un enorme puerto de cruceros"]},
+      "narracion": [
+        "Uno: Vice City, la gran ciudad.",
+        "Hoteles art déco y playas en Ocean Beach.",
+        "El barrio de Little Cuba.",
+        "Y un enorme puerto de cruceros."
+      ]
+    },
+    {
+      "tipo": "zona",
+      "capitulo": "Leonida Keys",
+      "fuente": "Web oficial de GTA VI",
+      "props": {"zona": "keys", "nombre": "Leonida Keys", "lema": "El archipiélago tropical", "puntos": ["Islas, barcos y bares de playa", "Aguas tan bonitas como peligrosas"]},
+      "narracion": [
+        "Dos: Leonida Keys, el archipiélago tropical.",
+        "Islas, barcos y bares de playa.",
+        "Y unas aguas tan bonitas como peligrosas."
+      ]
+    },
+    {
+      "tipo": "zona",
+      "capitulo": "Grassrivers",
+      "fuente": "Web oficial de GTA VI",
+      "props": {"zona": "grass", "nombre": "Grassrivers", "lema": "Los pantanos", "puntos": ["Manglares, hidrodeslizadores y caimanes", "Y el caimán no es lo más peligroso"]},
+      "narracion": [
+        "Tres: Grassrivers, los pantanos.",
+        "Manglares, hidrodeslizadores y caimanes.",
+        "Aunque Rockstar avisa: el caimán no es lo más peligroso que vive ahí."
+      ]
+    },
+    {
+      "tipo": "zona",
+      "capitulo": "Port Gellhorn",
+      "fuente": "Web oficial de GTA VI",
+      "props": {"zona": "port", "nombre": "Port Gellhorn", "lema": "La costa olvidada", "puntos": ["Moteles baratos y atracciones cerradas", "Centros comerciales vacíos"]},
+      "narracion": [
+        "Cuatro: Port Gellhorn, la costa olvidada.",
+        "Moteles baratos y atracciones cerradas.",
+        "Y centros comerciales vacíos, muy lejos del turismo."
+      ]
+    },
+    {
+      "tipo": "zona",
+      "capitulo": "Ambrosia",
+      "fuente": "Web oficial de GTA VI",
+      "props": {"zona": "ambrosia", "nombre": "Ambrosia", "lema": "El corazón industrial", "puntos": ["La refinería de azúcar Allied Crystal", "Y una banda de moteros"]},
+      "narracion": [
+        "Cinco: Ambrosia, el corazón industrial.",
+        "Aquí manda una refinería de azúcar: Allied Crystal.",
+        "Y también una banda de moteros."
+      ]
+    },
+    {
+      "tipo": "zona",
+      "capitulo": "Mount Kalaga",
+      "fuente": "Web oficial de GTA VI",
+      "props": {"zona": "kalaga", "nombre": "Mount Kalaga", "lema": "El parque nacional", "puntos": ["Caza, pesca y rutas todoterreno", "Gente que vive al margen, en el bosque"]},
+      "narracion": [
+        "Y seis: el parque nacional de Mount Kalaga, cerca de la frontera norte.",
+        "Caza, pesca y rutas todoterreno.",
+        "Y gente que vive al margen de todo, escondida en el bosque."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "capitulo": "¿Y el mapa completo?",
+      "fuente": "Rockstar Newswire",
+      "props": {
+        "icono": "mapa",
+        "titulo": "¿Y el mapa completo?",
+        "desde": 0,
+        "puntos": ["Mapa oficial: 19 de noviembre, gratis en la web de Rockstar", "Los «mapas completos» anteriores son de fans"]
+      },
+      "narracion": [
+        "¿Y el mapa completo? Rockstar ha anunciado que publicará el mapa oficial de Leonida el 19 de noviembre, como descarga gratuita en su web.",
+        "Los mapas completos que hayas visto antes son reconstrucciones hechas por fans."
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "props": {"siguiente": "Jason y Lucia: quiénes son"},
+      "narracion": [
+        "¿Por qué zona vas a empezar? Te leo en los comentarios.",
+        "Suscríbete para más GTA 6 sin rumores."
+      ]
+    }
+  ]
+}

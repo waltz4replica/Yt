@@ -1,0 +1,115 @@
+{
+  "id": "01",
+  "slug": "a-que-hora-sale-gta-6",
+  "titulo": "¿A qué hora sale GTA 6? Hora exacta por país, precarga y peso",
+  "publicar": "Cuanto antes: lunes 16 o martes 17 (deja de servir cuando el juego ya ha salido)",
+  "busquedas": ["gta 6 a qué hora sale", "gta 6 hora de salida españa", "gta 6 hora méxico", "gta 6 precarga", "gta 6 cuánto pesa"],
+  "miniatura": {"etiqueta": "GTA 6 · JUEVES 19", "lineas": ["¿A QUÉ", "HORA SALE?"], "acento": "HORA", "sello": "00:00", "icono": "reloj"},
+  "descripcion": "GTA 6 no sale a la misma hora en todo el mundo. Te cuento la hora exacta de desbloqueo según Rockstar, en qué orden llega a España y Latinoamérica, cuánto pesa la descarga y qué hacer hoy para poder jugar a medianoche.",
+  "etiquetas": ["gta 6", "gta vi", "gta 6 hora de salida", "a qué hora sale gta 6", "gta 6 precarga", "gta 6 cuánto pesa", "gta 6 lanzamiento", "gta 6 españa", "gta 6 méxico", "gta 6 argentina", "grand theft auto 6"],
+  "fuentes": [
+    {"texto": "Rockstar Games — Horarios regionales de precarga y lanzamiento (soporte oficial)", "url": "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s"},
+    {"texto": "Rockstar Games — Preguntas frecuentes sobre la precarga (soporte oficial)", "url": "https://support.rockstargames.com/articles/7nPqOA2uCbpEQHXx7KVrYd/grand-theft-auto-vi-pre-load-faq"},
+    {"texto": "Rockstar Games — Requisitos de instalación (soporte oficial)", "url": "https://support.rockstargames.com/articles/M6h7B5fJZMwG1dnzQkt4Z/grand-theft-auto-vi-installation-requirements"},
+    {"texto": "Rockstar Games — Plataformas, ediciones y versiones (soporte oficial)", "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"}
+  ],
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "capitulo": "La pregunta",
+      "props": {"etiqueta": "LANZAMIENTO · JUEVES 19 DE NOVIEMBRE", "lineas": ["¿A QUÉ HORA", "SALE GTA 6?"], "acento": ["HORA"]},
+      "narracion": [
+        "El jueves sale GTA 6, pero no a la misma hora en todo el mundo.",
+        "Y si no preparas la consola antes, a medianoche vas a estar mirando una barra de descarga."
+      ]
+    },
+    {
+      "tipo": "dato",
+      "capitulo": "La hora oficial",
+      "fuente": "Soporte oficial de Rockstar Games",
+      "props": {"antetitulo": "DESBLOQUEO OFICIAL", "valor": "00:00", "texto": "hora local · jueves 19 de noviembre", "nota": "En todas las regiones · PS5 y Xbox Series X|S"},
+      "narracion": [
+        "Según el soporte oficial de Rockstar, el juego se desbloquea a medianoche, hora local, del jueves 19 de noviembre.",
+        "En todas las regiones, y tanto en PlayStation 5 como en Xbox Series."
+      ]
+    },
+    {
+      "tipo": "relojes",
+      "capitulo": "Quién juega primero",
+      "props": {
+        "titulo": "Noche del miércoles 18 al jueves 19",
+        "desde": 1,
+        "items": [
+          {"lugar": "España (península)", "extra": "Primero"},
+          {"lugar": "Canarias", "extra": "+1 h"},
+          {"lugar": "Argentina · Chile · Uruguay", "extra": "+4 h"},
+          {"lugar": "Colombia · Perú · Ecuador", "extra": "+6 h"},
+          {"lugar": "México (centro)", "extra": "+7 h"}
+        ]
+      },
+      "narracion": [
+        "Es decir: la noche del miércoles 18 al jueves 19, cuando tu reloj marque las doce.",
+        "Por eso no todos jugamos a la vez. En el mundo hispano, la España peninsular va primero.",
+        "Una hora después, Canarias.",
+        "Cuatro horas después, Argentina, Chile y Uruguay.",
+        "Seis horas después, Colombia, Perú y Ecuador.",
+        "Y siete horas después, el centro de México."
+      ]
+    },
+    {
+      "tipo": "dato",
+      "capitulo": "Cuánto pesa",
+      "fuente": "Soporte oficial de Rockstar Games",
+      "props": {"antetitulo": "ESPACIO LIBRE NECESARIO", "prefijo": "hasta", "valor": "212", "unidad": "GB", "texto": "según tu consola", "nota": "Precarga digital abierta desde el 10 de noviembre", "golpe": 1},
+      "narracion": [
+        "Ahora, lo importante. La precarga digital está abierta desde el 10 de noviembre.",
+        "Y Rockstar pide tener libres hasta 212 GB, según la consola."
+      ]
+    },
+    {
+      "tipo": "pasos",
+      "capitulo": "Cómo dejarlo listo",
+      "fuente": "Soporte oficial de Rockstar Games",
+      "props": {
+        "titulo": "Déjalo listo antes de medianoche",
+        "pasos": [
+          {"texto": "Libera espacio", "detalle": "Hasta 212 GB"},
+          {"texto": "Activa las descargas automáticas", "detalle": "En PS5 y en Xbox"},
+          {"texto": "Consola encendida o en reposo", "detalle": "Así descarga sola"},
+          {"texto": "¿Edición física? Canjea el código", "detalle": "La caja no trae disco"}
+        ]
+      },
+      "narracion": [
+        "Para tenerlo listo: uno, libera espacio.",
+        "Dos, activa las descargas automáticas.",
+        "Tres, deja la consola encendida o en modo reposo.",
+        "Y cuatro: si compraste la edición física, canjea ya el código. La caja no trae disco."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "capitulo": "Resumen",
+      "props": {
+        "titulo": "En resumen",
+        "items": [
+          {"icono": "reloj", "texto": "Medianoche local del jueves 19"},
+          {"icono": "descarga", "texto": "Hasta 212 GB · precarga ya abierta"},
+          {"icono": "enlace", "texto": "Horarios oficiales por región", "detalle": "Enlace en la descripción"}
+        ]
+      },
+      "narracion": [
+        "En resumen: medianoche local del jueves 19.",
+        "Hasta 212 GB, con la precarga ya abierta.",
+        "Y los horarios oficiales por región están en la web de soporte de Rockstar. Te dejo el enlace en la descripción."
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "props": {"siguiente": "Precio y ediciones: ¿Standard o Ultimate?"},
+      "narracion": [
+        "Esta semana subo todo lo confirmado de GTA 6, sin rumores.",
+        "Suscríbete, y nos vemos en Leonida."
+      ]
+    }
+  ]
+}

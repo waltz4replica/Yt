@@ -1,0 +1,115 @@
+{
+  "id": "08",
+  "slug": "gta-6-radio-emisoras-y-musica",
+  "titulo": "La radio de GTA 6: emisoras, locutores y música confirmados",
+  "publicar": "Domingo 22",
+  "busquedas": ["gta 6 radio", "gta 6 emisoras", "gta 6 música", "gta 6 canciones", "gta 6 bad bunny", "gta 6 banda sonora"],
+  "miniatura": {"etiqueta": "GTA 6 · RADIO", "lineas": ["LA RADIO", "DE GTA 6"], "acento": "RADIO", "sello": "6 EMISORAS", "icono": "radio", "tono": "info"},
+  "descripcion": "Rockstar ya ha presentado las primeras seis emisoras de radio de GTA 6, con locutores como Bad Bunny, Lana Del Rey o Burna Boy. Te las repaso una a una, y te cuento lo de los pódcast y la banda sonora.",
+  "etiquetas": ["gta 6", "gta vi", "gta 6 radio", "gta 6 emisoras", "gta 6 música", "gta 6 canciones", "cocoteo fm", "flash fm", "gta 6 bad bunny", "gta 6 banda sonora", "justice gta 6", "grand theft auto 6"],
+  "fuentes": [
+    {"texto": "Rockstar Games — La música de GTA VI: emisoras de radio del juego", "url": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations"},
+    {"texto": "Rockstar Games — La música de GTA VI (web oficial)", "url": "https://www.rockstargames.com/VI/music"},
+    {"texto": "Rockstar Games — Banda sonora original de Justice", "url": "https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice"},
+    {"texto": "Billboard — Los locutores famosos de las emisoras de GTA VI", "url": "https://www.billboard.com/culture/lifestyle/grand-theft-auto-vi-radio-station-hosts-bad-bunny-lana-del-rey-1236357868/"},
+    {"texto": "VGC — Rockstar revela emisoras y confirma radio y pódcast a pie", "url": "https://www.videogameschronicle.com/news/rockstar-reveals-some-of-gta-6s-radio-stations-says-players-can-now-listen-to-the-radio-and-podcasts-on-foot/"}
+  ],
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "capitulo": "Las primeras emisoras",
+      "props": {"etiqueta": "MÚSICA Y RADIO", "lineas": ["LA RADIO", "DE GTA 6"], "acento": ["RADIO"]},
+      "narracion": [
+        "Rockstar ya ha presentado las primeras emisoras de GTA 6.",
+        "Y los locutores no son precisamente desconocidos."
+      ]
+    },
+    {
+      "tipo": "radio",
+      "capitulo": "Cocoteo FM",
+      "fuente": "Rockstar Games y Billboard",
+      "props": {"emisora": "Cocoteo FM", "genero": "Música latina", "locutores": "Bad Bunny y RaiNao", "nota": "En el juego son El Martillo y La Gata", "numero": 1, "total": 6, "color": "#ff3d81"},
+      "narracion": [
+        "Cocoteo FM es la emisora latina: bachata, merengue, dembow y reguetón.",
+        "La presentan Bad Bunny y RaiNao.",
+        "En el juego son El Martillo y La Gata."
+      ]
+    },
+    {
+      "tipo": "radio",
+      "capitulo": "Back Country Radio",
+      "fuente": "Rockstar Games y Billboard",
+      "props": {"emisora": "Back Country Radio", "genero": "Country", "locutores": "Lana Del Rey y Morgan Wallen", "numero": 2, "total": 6, "color": "#ff7a45"},
+      "narracion": [
+        "Back Country Radio pone country, del clásico al más rebelde.",
+        "Con Lana Del Rey y Morgan Wallen al micrófono."
+      ]
+    },
+    {
+      "tipo": "radio",
+      "capitulo": "AfroBank FM",
+      "fuente": "Rockstar Games y Billboard",
+      "props": {"emisora": "AfroBank FM", "genero": "Música africana", "locutores": "Burna Boy y Palmsy", "numero": 3, "total": 6, "color": "#3ddc97"},
+      "narracion": [
+        "AfroBank FM recorre la música africana, de los clásicos al amapiano.",
+        "La presentan Burna Boy y Palmsy."
+      ]
+    },
+    {
+      "tipo": "radio",
+      "capitulo": "The Chamber",
+      "fuente": "Rockstar Games",
+      "props": {"emisora": "The Chamber 106.6", "genero": "Rock duro y metal", "locutores": "DJ Kerry y DJ Tom", "numero": 4, "total": 6, "color": "#ff4d6d"},
+      "narracion": [
+        "The Chamber es la emisora de rock duro y metal.",
+        "Con DJ Kerry y DJ Tom."
+      ]
+    },
+    {
+      "tipo": "radio",
+      "capitulo": "Flash FM",
+      "fuente": "Rockstar Games y Billboard",
+      "props": {"emisora": "Flash FM", "genero": "Pop", "locutores": "Robyn y Alex Consani", "numero": 5, "total": 6, "color": "#57c7ff"},
+      "narracion": [
+        "Flash FM, la emisora pop de toda la vida en Vice City, está de vuelta.",
+        "Esta vez con Robyn y Alex Consani."
+      ]
+    },
+    {
+      "tipo": "radio",
+      "capitulo": "Dirty South Classics",
+      "fuente": "Rockstar Games y Billboard",
+      "props": {"emisora": "Dirty South Classics", "genero": "Rap del sur de Estados Unidos", "locutores": "Trick Daddy y Trina", "numero": 6, "total": 6, "color": "#ffd166"},
+      "narracion": [
+        "Y Dirty South Classics repasa el rap del sur de Estados Unidos.",
+        "Con dos leyendas de Miami: Trick Daddy y Trina."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "capitulo": "Pódcast y banda sonora",
+      "fuente": "Rockstar Newswire",
+      "props": {
+        "titulo": "Y además",
+        "items": [
+          {"icono": "cascos", "texto": "Radio y pódcast, también a pie", "detalle": "Con auriculares: los pódcast son una novedad en la saga"},
+          {"icono": "musica", "texto": "Banda sonora original de Justice", "detalle": "El dúo francés de música electrónica", "tono": "warn"},
+          {"icono": "radio", "texto": "Quedan emisoras por anunciar", "detalle": "Rock clásico y radio hablada, entre otras"}
+        ]
+      },
+      "narracion": [
+        "Además, por primera vez en la saga hay pódcast, y puedes escuchar la radio también a pie, con auriculares.",
+        "La banda sonora original es del dúo francés Justice.",
+        "Y quedan emisoras por anunciar, como una de rock clásico y otra de radio hablada."
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "props": {"siguiente": "¿GTA 6 tiene online?"},
+      "narracion": [
+        "¿Qué emisora vas a dejar puesta? Te leo abajo.",
+        "Suscríbete para más GTA 6 confirmado."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "09",
+  "slug": "gta-6-tiene-online",
+  "titulo": "¿GTA 6 tiene online? Qué pasa con GTA Online el día del lanzamiento",
+  "publicar": "Jueves 19 (el día del lanzamiento es cuando la gente lo busca y no lo encuentra)",
+  "busquedas": ["gta 6 online", "gta 6 multijugador", "gta 6 online cuándo sale", "gta online gta 6", "gta 6 modo online"],
+  "miniatura": {"etiqueta": "GTA 6 · ONLINE", "lineas": ["¿TIENE", "ONLINE?"], "acento": "ONLINE", "sello": "DE SALIDA, NO", "tono": "no"},
+  "descripcion": "Si buscas el modo online de GTA 6 el día del lanzamiento, no lo vas a encontrar. Te explico qué ha dicho Rockstar, qué pasó con GTA 5 y Red Dead Redemption 2, qué ocurre con GTA Online y de qué fechas no debes fiarte.",
+  "etiquetas": ["gta 6", "gta vi", "gta 6 online", "gta 6 multijugador", "gta online", "gta 6 online fecha", "gta 6 modo online", "gta 6 beta", "grand theft auto 6"],
+  "fuentes": [
+    {"texto": "Rockstar Games — Anuncio de la reserva («una experiencia para un jugador»)", "url": "https://www.rockstargames.com/newswire/article/5171972o3ak5oa/pre-order-grand-theft-auto-vi-on-june-25"},
+    {"texto": "Push Square — GTA 6 no tiene multijugador online de lanzamiento", "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch"},
+    {"texto": "GamesRadar — Rockstar describe GTA 6 como una experiencia para un jugador", "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-online-looks-unlikely-for-launch-as-rockstar-refers-to-the-game-as-a-single-player-experience/"},
+    {"texto": "TweakTown — Take-Two reitera que GTA Online seguirá tras GTA 6", "url": "https://tweaktown.com/news/113044/gta-online-will-continue-after-gta-6s-release-take-two-reiterates/index.html"},
+    {"texto": "GameSpot — Un banco estima el online de GTA 6 para principios de 2027 (estimación, no anuncio)", "url": "https://www.gamespot.com/articles/gta-6-online-could-be-released-in-early-2027-bank-says/"}
+  ],
+  "escenas": [
+    {
+      "tipo": "gancho",
+      "capitulo": "¿Tiene online?",
+      "props": {"etiqueta": "MULTIJUGADOR", "lineas": ["¿GTA 6 TIENE", "ONLINE?"], "acento": ["ONLINE"]},
+      "narracion": [
+        "Si el jueves buscas el modo online de GTA 6, no lo vas a encontrar.",
+        "Te explico por qué, y qué pasa con GTA Online."
+      ]
+    },
+    {
+      "tipo": "veredicto",
+      "capitulo": "De lanzamiento, no",
+      "fuente": "Rockstar Games",
+      "props": {"pregunta": "¿Online de lanzamiento?", "icono": "mundo", "sello": "NO", "tono": "no", "detalle": "Rockstar: «una experiencia para un jugador»", "golpe": 1},
+      "narracion": [
+        "¿Hay online de lanzamiento?",
+        "No. Rockstar describe GTA 6 como una experiencia para un jugador.",
+        "El 19 de noviembre llega la historia de Jason y Lucia, y nada más."
+      ]
+    },
+    {
+      "tipo": "linea",
+      "capitulo": "Ya pasó antes",
+      "props": {
+        "titulo": "Ya pasó antes",
+        "puntos": [
+          {"fecha": "2013", "texto": "GTA 5 sale sin online. GTA Online llega 2 semanas después"},
+          {"fecha": "2018", "texto": "Red Dead Redemption 2: la beta del online llega al mes"},
+          {"fecha": "2026", "texto": "GTA 6: el online no tiene fecha", "tono": "warn"}
+        ]
+      },
+      "narracion": [
+        "No es la primera vez. En 2013, GTA 5 salió sin online, y GTA Online llegó dos semanas después.",
+        "En 2018, Red Dead Redemption 2 también salió solo con historia. La beta del online llegó un mes más tarde.",
+        "Para GTA 6, de momento, no hay fecha oficial."
+      ]
+    },
+    {
+      "tipo": "nota",
+      "capitulo": "¿Y GTA Online?",
+      "fuente": "Take-Two, resultados de agosto de 2026",
+      "props": {"icono": "escudo", "titulo": "¿Y el GTA Online de siempre?", "cuerpo": "Sigue funcionando. La matriz de Rockstar espera seguir dándole soporte.", "tono": "ok"},
+      "narracion": [
+        "¿Y el GTA Online de siempre? Sigue funcionando.",
+        "La empresa matriz de Rockstar ha dicho que espera seguir dándole soporte."
+      ]
+    },
+    {
+      "tipo": "lista",
+      "capitulo": "De qué no fiarte",
+      "props": {
+        "titulo": "Ojo con lo que leas",
+        "items": [
+          {"icono": "calendario", "texto": "«Sale a principios de 2027»", "detalle": "Es una estimación de analistas, no un anuncio", "tono": "warn", "estado": "SIN CONFIRMAR"},
+          {"icono": "alerta", "texto": "«Beta» o «acceso anticipado»", "detalle": "Rockstar no ha anunciado nada parecido", "tono": "no", "estado": "DESCONFÍA"}
+        ]
+      },
+      "narracion": [
+        "Vas a ver fechas como principios de 2027. Son estimaciones de analistas, no anuncios.",
+        "Y si alguien te ofrece una beta o acceso anticipado al online, desconfía: Rockstar no ha anunciado nada parecido."
+      ]
+    },
+    {
+      "tipo": "cierre",
+      "props": {"siguiente": "Trucos de GTA 6: la verdad"},
+      "narracion": [
+        "En cuanto haya fecha oficial para el online, la tendrás aquí.",
+        "Suscríbete y activa la campana."
+      ]
+    }
+  ]
+}
